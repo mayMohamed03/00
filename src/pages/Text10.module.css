@@ -1,0 +1,12 @@
+.b {
+  width: 57px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-dm-sans);
+  color: #fe0909;
+  text-align: left;
+  height: 53px;
+}

@@ -1,0 +1,10 @@
+.div {
+  width: 233px;
+  position: relative;
+  font-size: 128px;
+  font-family: var(--font-dm-sans);
+  color: var(--color-blueviolet);
+  text-align: left;
+  display: inline-block;
+  height: 99px;
+}

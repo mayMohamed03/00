@@ -1,0 +1,157 @@
+.button {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.back,
+.button,
+.lineIcon {
+  position: absolute;
+}
+.lineIcon {
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.back {
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.indonesianChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 127px;
+}
+.icon,
+.indonesianChild,
+.text {
+  position: absolute;
+}
+.icon {
+  top: 23px;
+  left: 296px;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  top: 27px;
+  left: 55px;
+  color: var(--color-midnightblue-200);
+}
+.indonesianItem,
+.text1,
+.text2 {
+  position: absolute;
+  top: 65px;
+  left: 15px;
+}
+.indonesianItem,
+.text2 {
+  top: 91px;
+}
+.indonesianItem {
+  top: 20px;
+  border-radius: var(--br-9xl);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.english,
+.indonesian {
+  left: 0;
+  width: 335px;
+  height: 127px;
+}
+.indonesian {
+  position: absolute;
+  top: 52px;
+}
+.english {
+  top: 194px;
+}
+.english,
+.iconAdd,
+.text6 {
+  position: absolute;
+}
+.iconAdd {
+  top: 0;
+  left: 37px;
+  width: 24px;
+  height: 24px;
+}
+.text6 {
+  top: 2px;
+  left: 0;
+}
+.add,
+.text7 {
+  position: absolute;
+  top: 0;
+}
+.add {
+  left: 274px;
+  width: 61px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--color-sandybrown-100);
+}
+.text7 {
+  left: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-400);
+}
+.addLanguage {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 321px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 213px;
+  height: 50px;
+}
+.button1,
+.save,
+.text8 {
+  position: absolute;
+}
+.text8 {
+  top: 16px;
+  left: 87px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.save {
+  top: 671px;
+  left: 81px;
+  width: 213px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.language {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-dm-sans);
+}

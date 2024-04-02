@@ -1,0 +1,155 @@
+.removeIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.jobTitleChild,
+.text {
+  position: absolute;
+  left: 0;
+}
+.text {
+  top: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-darkslateblue-400);
+}
+.jobTitleChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 40px;
+}
+.text1,
+.text2 {
+  position: absolute;
+  top: 38px;
+  left: 20px;
+}
+.text2 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.company,
+.descriptionChild,
+.jobTitle {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 335px;
+  height: 66px;
+}
+.company,
+.descriptionChild {
+  top: 138px;
+}
+.descriptionChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  height: 155px;
+}
+.description,
+.text5 {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+}
+.description {
+  top: 310px;
+  left: 0;
+  width: 335px;
+  height: 181px;
+  color: var(--color-darkgray-200);
+}
+.endDate,
+.endDateChild {
+  position: absolute;
+  left: 0;
+  width: 160px;
+}
+.endDateChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  height: 40px;
+}
+.endDate {
+  top: 224px;
+  height: 66px;
+}
+.addWorkExperience {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 491px;
+}
+.button1,
+.text9 {
+  position: absolute;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 160px;
+  height: 50px;
+}
+.text9 {
+  top: 16px;
+  left: 64px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button,
+.button3 {
+  position: absolute;
+  top: 0;
+  left: 175px;
+  width: 160px;
+  height: 50px;
+}
+.button3 {
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.text10 {
+  position: absolute;
+  top: 16px;
+  left: 53px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button2,
+.buttonRemoveSave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 160px;
+  height: 50px;
+}
+.buttonRemoveSave {
+  top: 671px;
+  left: 20px;
+  width: 335px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.editAppreciation {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

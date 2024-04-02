@@ -1,0 +1,488 @@
+.lineIcon,
+.text {
+  position: absolute;
+  left: 0;
+}
+.text {
+  top: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+}
+.lineIcon {
+  top: 156px;
+  max-height: 100%;
+  width: 335px;
+}
+.jobTypeChild {
+  position: absolute;
+  top: 9px;
+  left: 325px;
+  width: 10px;
+  height: 10px;
+  object-fit: contain;
+}
+.buttonhover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightgray);
+  width: 83px;
+  height: 36px;
+  opacity: 0.2;
+}
+.fullTime,
+.text1 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+}
+.fullTime {
+  top: 49px;
+  left: 100px;
+  width: 83px;
+  height: 36px;
+}
+.buttonhover1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-sandybrown-100);
+}
+.buttonhover1,
+.buttonhover2,
+.fullTime1 {
+  position: absolute;
+  width: 82px;
+  height: 36px;
+}
+.fullTime1 {
+  top: 49px;
+  left: 207px;
+  color: var(--color-white);
+}
+.buttonhover2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightgray);
+  opacity: 0.2;
+}
+.fullTime2,
+.text3 {
+  position: absolute;
+  top: 10px;
+  left: 9px;
+}
+.fullTime2 {
+  top: 49px;
+  left: 0;
+  width: 82px;
+  height: 36px;
+}
+.buttonhover3,
+.jobType {
+  position: absolute;
+  top: 550px;
+  left: 20px;
+  width: 335px;
+  height: 156px;
+}
+.buttonhover3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightgray);
+  width: 77px;
+  height: 36px;
+  opacity: 0.2;
+}
+.fullTime3,
+.text5 {
+  position: absolute;
+  top: 10px;
+  left: 22px;
+}
+.fullTime3 {
+  top: 49px;
+  left: 0;
+  width: 77px;
+  height: 36px;
+}
+.buttonhover4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-sandybrown-100);
+  width: 79px;
+}
+.buttonhover4,
+.buttonhover5,
+.fullTime4 {
+  position: absolute;
+  height: 36px;
+}
+.fullTime4 {
+  top: 49px;
+  left: 92px;
+  width: 79px;
+  color: var(--color-white);
+}
+.buttonhover5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightgray);
+  width: 75px;
+  opacity: 0.2;
+}
+.text7 {
+  position: absolute;
+  top: 10px;
+  left: 18px;
+}
+.fullTime5,
+.position {
+  position: absolute;
+  top: 49px;
+  left: 186px;
+  width: 75px;
+  height: 36px;
+}
+.position {
+  top: 726px;
+  left: 20px;
+  width: 335px;
+  height: 156px;
+}
+.buttonhover6,
+.text8 {
+  position: absolute;
+  top: 1px;
+  left: 33px;
+}
+.buttonhover6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 1.5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.californiaUsaChild {
+  position: absolute;
+  top: 4px;
+  left: 5px;
+  border-radius: var(--br-12xs);
+  width: 8.1px;
+  height: 8.1px;
+  object-fit: contain;
+}
+.buttonhover7,
+.californiaUsa {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 98px;
+  height: 18px;
+}
+.buttonhover7 {
+  top: 0;
+  border-radius: var(--br-8xs);
+  border: 1.5px solid var(--color-slategray-100);
+  box-sizing: border-box;
+  width: 18px;
+}
+.californiaUsa1,
+.californiaUsa2,
+.californiaUsa3 {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 91px;
+  height: 18px;
+}
+.californiaUsa2,
+.californiaUsa3 {
+  top: 125px;
+  width: 103px;
+}
+.californiaUsa3 {
+  top: 163px;
+  width: 97px;
+}
+.lineIcon2 {
+  top: 201px;
+  left: 0;
+  max-height: 100%;
+}
+.city,
+.lineIcon2,
+.lineIcon3 {
+  position: absolute;
+  width: 335px;
+}
+.city {
+  top: 902px;
+  left: 20px;
+  height: 201px;
+}
+.lineIcon3 {
+  top: 277px;
+  left: 0;
+  max-height: 100%;
+}
+.design,
+.design1 {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 71px;
+  height: 18px;
+}
+.design1 {
+  top: 239px;
+  width: 102px;
+}
+.californiaUsa4,
+.education,
+.finance,
+.health {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 77px;
+  height: 18px;
+}
+.californiaUsa4,
+.education,
+.health {
+  top: 125px;
+  width: 89px;
+}
+.californiaUsa4,
+.health {
+  top: 163px;
+  width: 69px;
+}
+.californiaUsa4 {
+  top: 201px;
+  width: 93px;
+}
+.buttonhover16,
+.specialization {
+  position: absolute;
+  top: 1120px;
+  left: 15px;
+  width: 335px;
+  height: 277px;
+}
+.buttonhover16 {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1.5px solid var(--color-slategray-100);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.lastMonth,
+.lastWeek {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 88px;
+  height: 18px;
+}
+.lastMonth {
+  top: 125px;
+  width: 96px;
+}
+.buttonhover18,
+.buttonhover19 {
+  position: absolute;
+  border-radius: 50%;
+}
+.buttonhover18 {
+  top: 0;
+  left: 0;
+  border: 1.5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+}
+.buttonhover19 {
+  top: 3px;
+  left: 3px;
+  background-color: var(--color-darkorange);
+  width: 12px;
+  height: 12px;
+}
+.lastUpdate,
+.lastWeek1,
+.recent {
+  position: absolute;
+  top: 163px;
+  left: 0;
+  width: 83px;
+  height: 18px;
+}
+.lastUpdate,
+.recent {
+  top: 49px;
+  width: 72px;
+}
+.lastUpdate {
+  top: 146px;
+  left: 20px;
+  width: 335px;
+  height: 201px;
+}
+.hybrid,
+.onSite,
+.onSiteChild,
+.remote {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 71px;
+  height: 18px;
+}
+.onSite,
+.onSiteChild,
+.remote {
+  top: 125px;
+  width: 76px;
+}
+.onSite,
+.onSiteChild {
+  top: 0;
+  width: 18px;
+}
+.onSite {
+  top: 49px;
+  width: 76px;
+}
+.lineIcon5,
+.typeOfWorkplace {
+  position: absolute;
+  width: 335px;
+}
+.lineIcon5 {
+  top: 163px;
+  left: 0;
+  max-height: 100%;
+}
+.typeOfWorkplace {
+  top: 367px;
+  left: 20px;
+  height: 163px;
+}
+.rectangleIcon1 {
+  width: 375px;
+  height: 78px;
+}
+.button,
+.buttonIcon,
+.rectangleIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.buttonIcon {
+  border-radius: var(--br-mini);
+  width: 75px;
+  height: 50px;
+}
+.button {
+  width: 24px;
+  height: 24px;
+}
+.save1,
+.text29 {
+  position: absolute;
+  top: 1px;
+  left: 4px;
+}
+.save1 {
+  top: 13px;
+  left: 13px;
+  width: 46px;
+  height: 24px;
+}
+.buttonIcon1,
+.save {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  width: 75px;
+  height: 50px;
+}
+.buttonIcon1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 245px;
+}
+.text30 {
+  position: absolute;
+  top: 16px;
+  left: 81px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button1 {
+  position: absolute;
+  top: 14px;
+  left: 110px;
+  width: 245px;
+  height: 50px;
+  font-size: 15px;
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}
+.menuBar {
+  position: absolute;
+  top: 1417px;
+  left: 0;
+  width: 375px;
+  height: 78px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkorange);
+  font-family: var(--font-open-sans);
+}
+.imegeIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button2 {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.text31 {
+  position: absolute;
+  top: 71px;
+  left: 167px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-300);
+}
+.filter {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 1495px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+  font-family: var(--font-dm-sans);
+}

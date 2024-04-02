@@ -1,0 +1,176 @@
+.aboutMeChild,
+.removeIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.aboutMeChild {
+  top: 52px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 232px;
+}
+.aboutMe,
+.text,
+.text1 {
+  position: absolute;
+  top: 69px;
+  left: 20px;
+}
+.aboutMe,
+.text1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue-200);
+}
+.aboutMe {
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 284px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+}
+.saveChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-blueviolet);
+  width: 213px;
+  height: 50px;
+}
+.save,
+.saveChild,
+.text2 {
+  position: absolute;
+}
+.text2 {
+  top: 16px;
+  left: 91px;
+  font-weight: 600;
+}
+.save {
+  top: 742px;
+  left: 81px;
+  width: 213px;
+  height: 50px;
+  font-family: var(--font-open-sans);
+}
+.popUpChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-300);
+  width: 375px;
+  height: 812px;
+  opacity: 0.6;
+}
+.popUpItem {
+  top: 514px;
+  left: 0;
+  width: 375px;
+  height: 298px;
+}
+.button1,
+.popUpItem,
+.text3 {
+  position: absolute;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 213px;
+  height: 50px;
+}
+.text3 {
+  top: 16px;
+  left: 33px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 146px;
+}
+.button {
+  top: 0;
+}
+.button,
+.button2,
+.button3,
+.buttonRemoveSave {
+  position: absolute;
+  left: 0;
+  width: 213px;
+  height: 50px;
+}
+.button3 {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.button2,
+.buttonRemoveSave {
+  top: 60px;
+}
+.buttonRemoveSave {
+  top: 677px;
+  left: 81px;
+  height: 110px;
+}
+.text4,
+.text5 {
+  position: absolute;
+  top: 621px;
+  left: 44px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-200);
+}
+.text5 {
+  top: 589px;
+  left: 125px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-500);
+}
+.lineIcon {
+  top: 539px;
+  left: 173px;
+  max-height: 100%;
+  width: 30px;
+}
+.lineIcon,
+.popUp,
+.text6 {
+  position: absolute;
+}
+.popUp {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 812px;
+}
+.text6 {
+  top: 752px;
+  left: 122px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 130px;
+}
+.undoChanges {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

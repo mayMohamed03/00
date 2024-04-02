@@ -1,0 +1,400 @@
+.itSeniorChild {
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 203px;
+}
+.imege,
+.imegeIcon,
+.itSeniorChild {
+  position: absolute;
+  top: 0;
+}
+.imege {
+  left: 2px;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon {
+  left: 0;
+  width: 44px;
+  height: 39px;
+  object-fit: cover;
+}
+.fullTimeChild,
+.logoGoogle {
+  position: absolute;
+  top: 20px;
+  left: 18px;
+  width: 44px;
+  height: 40px;
+}
+.fullTimeChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.2;
+}
+.text {
+  position: absolute;
+  top: 6px;
+  left: 21px;
+}
+.designChild,
+.fullTime {
+  position: absolute;
+  top: 128px;
+  left: 109px;
+  width: 82px;
+  height: 26px;
+}
+.designChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 79px;
+  opacity: 0.2;
+}
+.design,
+.text1 {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+}
+.design {
+  top: 128px;
+  left: 20px;
+  width: 79px;
+  height: 26px;
+}
+.seniorDesigner,
+.seniorDesignerChild {
+  position: absolute;
+  width: 78px;
+  height: 26px;
+}
+.seniorDesignerChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  opacity: 0.2;
+}
+.seniorDesigner {
+  top: 128px;
+  left: 201px;
+}
+.optionsIcon {
+  top: 30px;
+  left: 295px;
+  width: 20px;
+  height: 20px;
+}
+.optionsIcon,
+.text3,
+.text4 {
+  position: absolute;
+}
+.text3 {
+  top: 172px;
+  left: 20px;
+  color: var(--color-darkgray-200);
+}
+.text4 {
+  top: 92px;
+  left: 87px;
+  font-size: var(--font-size-xs);
+}
+.text5 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-300);
+}
+.imege1,
+.text5,
+.text6 {
+  position: absolute;
+}
+.text6 {
+  top: 92px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-open-sans);
+}
+.imege1 {
+  top: 101px;
+  left: 70px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.imegeIcon1,
+.itSenior {
+  position: absolute;
+  top: 87px;
+  left: 20px;
+  width: 335px;
+  height: 203px;
+}
+.imegeIcon1 {
+  top: 20px;
+  border-radius: var(--br-11xl);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.designItem,
+.fullTimeItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.1;
+}
+.designItem {
+  width: 79px;
+}
+.text8 {
+  position: absolute;
+  top: 6px;
+  left: 24px;
+}
+.seniorDesignerItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 78px;
+  height: 26px;
+  opacity: 0.1;
+}
+.text11,
+.text9 {
+  position: absolute;
+  top: 6px;
+  left: 19px;
+}
+.text11 {
+  top: 93px;
+  left: 99px;
+  font-size: var(--font-size-xs);
+}
+.text12 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-600);
+  white-space: pre-wrap;
+}
+.imege2,
+.text12,
+.text13 {
+  position: absolute;
+}
+.text13 {
+  top: 93px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+}
+.imege2 {
+  top: 101px;
+  left: 82px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.cysSenior,
+.isSenior,
+.menuBarIcon {
+  position: absolute;
+  top: 305px;
+  left: 20px;
+  width: 335px;
+  height: 203px;
+}
+.cysSenior,
+.menuBarIcon {
+  top: 523px;
+}
+.menuBarIcon {
+  top: 741px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.button,
+.text21 {
+  position: absolute;
+  top: 35px;
+  left: 144px;
+  font-size: var(--font-size-xl);
+  color: var(--color-midnightblue-200);
+}
+.button {
+  left: 302px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkorange);
+}
+.popUpChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-300);
+  width: 375px;
+  height: 812px;
+  display: none;
+  opacity: 0.6;
+}
+.groupChild,
+.popUp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+}
+.groupChild {
+  width: 375px;
+  height: 299px;
+}
+.lineIcon {
+  position: absolute;
+  top: 30px;
+  left: 173px;
+  max-height: 100%;
+  width: 30px;
+}
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-200);
+  width: 335px;
+  height: 50px;
+}
+.text22 {
+  position: absolute;
+  top: 16px;
+  left: 54px;
+}
+.buttonhover,
+.imege4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.imege4 {
+  top: 2px;
+  left: 2px;
+  border-radius: var(--br-81xl);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.iconChild {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  width: 8.7px;
+  height: 8.7px;
+  object-fit: contain;
+}
+.apply,
+.icon {
+  position: absolute;
+  top: 13px;
+  left: 15px;
+  width: 24px;
+  height: 24px;
+}
+.apply {
+  top: 214px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+  color: var(--color-white);
+}
+.delete,
+.icon2,
+.text23 {
+  position: absolute;
+  top: 3px;
+  left: 39px;
+}
+.delete,
+.icon2 {
+  top: 178px;
+  left: 35px;
+  width: 81px;
+  height: 24px;
+}
+.icon2 {
+  top: 0;
+  left: 0;
+  width: 24px;
+  object-fit: cover;
+}
+.button2,
+.buttonhover1 {
+  position: absolute;
+  top: 129px;
+  left: 35px;
+  width: 85px;
+  height: 24px;
+}
+.button2 {
+  top: -13px;
+  left: -15px;
+  border-radius: var(--br-mini);
+  background-color: #ff9e87;
+  width: 335px;
+  height: 50px;
+  display: none;
+}
+.sendMessage,
+.vectorParent {
+  position: absolute;
+  top: 80px;
+  left: 35px;
+  width: 134px;
+  height: 24px;
+}
+.vectorParent {
+  top: 446px;
+  left: 3px;
+  width: 375px;
+  height: 299px;
+  font-size: var(--font-size-sm);
+  color: var(--color-midnightblue-200);
+}
+.options {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

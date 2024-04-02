@@ -1,0 +1,460 @@
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.imege,
+.text,
+.text1 {
+  position: absolute;
+  top: 0;
+}
+.text {
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+}
+.imege,
+.text1 {
+  left: 15px;
+}
+.imege {
+  top: 7px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 4px;
+  height: 4px;
+}
+.textParent {
+  position: absolute;
+  top: 34px;
+  left: 1px;
+  width: 59px;
+  height: 16px;
+}
+.groupDiv,
+.textContainer,
+.textGroup,
+.textParent1 {
+  position: absolute;
+  top: 96px;
+  left: 1px;
+  width: 139px;
+  height: 16px;
+}
+.groupDiv,
+.textContainer,
+.textParent1 {
+  top: 65px;
+  width: 51px;
+}
+.groupDiv,
+.textParent1 {
+  top: 127px;
+  width: 101px;
+}
+.textParent1 {
+  top: 158px;
+  width: 128px;
+}
+.requirements,
+.textParent2,
+.textParent3 {
+  position: absolute;
+  top: 189px;
+  left: 1px;
+  width: 92px;
+  height: 16px;
+}
+.requirements,
+.textParent3 {
+  top: 220px;
+  width: 112px;
+}
+.requirements {
+  top: 1256px;
+  left: 20px;
+  width: 140px;
+  height: 236px;
+  color: var(--color-slategray-100);
+}
+.text8 {
+  top: 0;
+}
+.mapIcon,
+.text8,
+.text9 {
+  position: absolute;
+  left: 0;
+}
+.text9 {
+  top: 34px;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.mapIcon {
+  top: 67px;
+  width: 333px;
+  height: 151px;
+  object-fit: cover;
+}
+.iconLocations,
+.location {
+  position: absolute;
+  top: 119px;
+  left: 148px;
+  width: 36px;
+  height: 36px;
+}
+.location {
+  top: 721px;
+  left: 20px;
+  width: 333px;
+  height: 218px;
+  font-size: var(--font-size-sm);
+}
+.text10,
+.text12 {
+  position: absolute;
+  left: 0;
+}
+.text10 {
+  top: 0;
+  font-size: var(--font-size-sm);
+}
+.text12 {
+  top: 21px;
+  color: var(--color-slategray-100);
+}
+.position {
+  top: 34px;
+  width: 48px;
+  height: 37px;
+}
+.experience,
+.position,
+.text15 {
+  position: absolute;
+  left: 0;
+}
+.experience {
+  top: 93px;
+  width: 81px;
+  height: 37px;
+}
+.text15 {
+  top: 0;
+  white-space: pre-wrap;
+}
+.jobType,
+.specialization {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  width: 113px;
+  height: 37px;
+}
+.specialization {
+  top: 224px;
+  left: 1px;
+  width: 104px;
+}
+.lineIcon1,
+.lineIcon2,
+.lineIcon3,
+.lineIcon4 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  max-height: 100%;
+  width: 335px;
+}
+.lineIcon2,
+.lineIcon3,
+.lineIcon4 {
+  top: 140px;
+}
+.lineIcon3,
+.lineIcon4 {
+  top: 209px;
+}
+.lineIcon4 {
+  top: 271px;
+}
+.informations,
+.optionsIcon {
+  position: absolute;
+  top: 964px;
+  left: 20px;
+  width: 335px;
+  height: 271px;
+}
+.optionsIcon {
+  top: 30px;
+  left: 331px;
+  width: 24px;
+  height: 24px;
+}
+.text19,
+.text20 {
+  position: absolute;
+  top: 265px;
+  left: 39px;
+  font-size: var(--font-size-sm);
+}
+.text20 {
+  top: 269px;
+  left: 265px;
+}
+.buttonIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 270px;
+  height: 50px;
+}
+.text21 {
+  position: absolute;
+  top: 16px;
+  left: 93px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button4 {
+  position: absolute;
+  top: 1542px;
+  left: 52px;
+  width: 270px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.button6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-steelblue);
+  width: 91px;
+  height: 30px;
+  opacity: 0.2;
+}
+.text22 {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+}
+.button5,
+.text23 {
+  position: absolute;
+  left: 0;
+}
+.button5 {
+  top: 152px;
+  width: 91px;
+  height: 30px;
+}
+.text23 {
+  top: 0;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-darkslateblue-300);
+  white-space: pre-wrap;
+}
+.jobDescription,
+.text24 {
+  position: absolute;
+  width: 329px;
+}
+.text24 {
+  top: 25px;
+  left: 0;
+  color: var(--color-slategray-100);
+  display: inline-block;
+}
+.jobDescription {
+  top: 308px;
+  left: 15px;
+  height: 182px;
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-open-sans);
+}
+.text25 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-darkslateblue-300);
+}
+.requirementsChild {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 4px;
+  height: 4px;
+}
+.availabilityOfA {
+  margin: 0;
+}
+.text26,
+.textParent4 {
+  position: absolute;
+  height: 35px;
+}
+.text26 {
+  top: 0;
+  left: 15px;
+  display: inline-block;
+  width: 295px;
+}
+.textParent4 {
+  top: 107px;
+  left: 1px;
+  width: 310px;
+}
+.text27,
+.textParent5 {
+  position: absolute;
+  height: 24px;
+}
+.text27 {
+  top: 0;
+  left: 13px;
+  display: inline-block;
+  width: 292px;
+}
+.textParent5 {
+  top: 77px;
+  left: 1px;
+  width: 305px;
+}
+.text28 {
+  top: 93px;
+  left: 15px;
+  display: inline-block;
+  width: 306px;
+}
+.imege9,
+.text28,
+.text29 {
+  position: absolute;
+}
+.imege9 {
+  top: 100px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 4px;
+  height: 4px;
+}
+.text29 {
+  top: 0;
+  left: 11px;
+  display: inline-block;
+  width: 358px;
+  height: 44px;
+}
+.requirements1,
+.textParent6 {
+  position: absolute;
+  top: 55px;
+  left: 3px;
+  width: 369px;
+  height: 157px;
+}
+.requirements1 {
+  top: 518px;
+  left: 12px;
+  width: 372px;
+  height: 212px;
+  color: var(--color-slategray-100);
+  font-family: var(--font-open-sans);
+}
+.groupChild {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 114px;
+}
+.text30 {
+  position: absolute;
+  top: 87px;
+  left: calc(50% - 33.5px);
+}
+.text31,
+.text32,
+.text33 {
+  position: absolute;
+  top: 124px;
+  left: 29px;
+}
+.text32,
+.text33 {
+  left: 158px;
+}
+.text33 {
+  left: 276px;
+}
+.imege10,
+.imege11 {
+  position: absolute;
+  top: 133px;
+  left: 104px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-300);
+  width: 7px;
+  height: 7px;
+}
+.imege11 {
+  left: 245px;
+}
+.imegeIcon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 41.5px);
+  width: 83px;
+  height: 76px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 375px;
+  height: 166px;
+  font-size: var(--font-size-base);
+}
+.description {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 1622px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-dm-sans);
+}

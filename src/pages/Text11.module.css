@@ -1,0 +1,9 @@
+.b {
+  width: 51px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  font-family: var(--font-dm-sans);
+  color: #ff0b0b;
+  text-align: left;
+}

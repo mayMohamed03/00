@@ -1,0 +1,188 @@
+.button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.back,
+.rectangleIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.rectangleIcon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 134px;
+}
+.lineIcon1 {
+  position: absolute;
+  top: 70px;
+  left: 15px;
+  max-height: 100%;
+  width: 305px;
+}
+.text,
+.text1 {
+  position: absolute;
+  top: 0;
+  left: 242px;
+}
+.text1 {
+  left: 0;
+  color: var(--color-midnightblue-200);
+}
+.language1 {
+  position: absolute;
+  top: 27px;
+  left: 15px;
+  width: 279px;
+  height: 16px;
+}
+.text2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.firstLanguage,
+.selectIcon {
+  position: absolute;
+  top: 0;
+  left: 287px;
+  width: 18px;
+  height: 18px;
+}
+.firstLanguage {
+  top: 90px;
+  left: 15px;
+  width: 305px;
+  color: var(--color-midnightblue-200);
+}
+.language,
+.rectangleIcon1 {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 335px;
+  height: 134px;
+}
+.rectangleIcon1 {
+  top: 0;
+  border-radius: var(--br-mini);
+  height: 187px;
+}
+.lineIcon2 {
+  position: absolute;
+  top: 94px;
+  left: 15px;
+  max-height: 100%;
+  width: 305px;
+}
+.textbox {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  color: var(--color-darkgray-200);
+}
+.oral,
+.written {
+  position: absolute;
+  top: 113px;
+  left: 15px;
+  width: 174px;
+  height: 47px;
+}
+.oral {
+  top: 27px;
+  width: 40px;
+}
+.proficiencyLevel {
+  position: absolute;
+  top: 206px;
+  left: 0;
+  width: 335px;
+  height: 187px;
+  color: var(--color-midnightblue-200);
+}
+.text5,
+.text6 {
+  position: absolute;
+  top: 408px;
+  left: 15px;
+  color: var(--color-darkgray-200);
+}
+.text6 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-400);
+}
+.addLanguage1 {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 424px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 213px;
+  height: 50px;
+}
+.button1,
+.save,
+.text7 {
+  position: absolute;
+}
+.text7 {
+  top: 16px;
+  left: 87px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.save {
+  top: 670px;
+  left: 81px;
+  width: 213px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.imegeIcon {
+  position: absolute;
+  top: 166px;
+  left: 236px;
+  border-radius: var(--br-9xl);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.addLanguage {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

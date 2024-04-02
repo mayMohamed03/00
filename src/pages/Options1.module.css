@@ -1,0 +1,30 @@
+.optionsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.imege,
+.imege1,
+.imege2 {
+  position: absolute;
+  top: 3px;
+  left: 10px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 4px;
+  height: 4px;
+}
+.imege1,
+.imege2 {
+  top: 10px;
+}
+.imege2 {
+  top: 17px;
+}
+.options {
+  width: 100%;
+  position: relative;
+  height: 24px;
+}

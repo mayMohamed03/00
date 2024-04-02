@@ -1,0 +1,286 @@
+.removeIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue-200);
+}
+.jobTitleChild {
+  top: 26px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 40px;
+}
+.jobTitleChild,
+.text1,
+.text2 {
+  position: absolute;
+}
+.text1 {
+  top: 38px;
+  left: 20px;
+  display: none;
+}
+.text2 {
+  top: 0;
+  left: 0;
+  color: var(--color-midnightblue-200);
+}
+.company,
+.jobTitle,
+.startDateChild {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 335px;
+  height: 66px;
+}
+.company,
+.startDateChild {
+  top: 138px;
+}
+.startDateChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 160px;
+  height: 40px;
+}
+.startDate,
+.startDateItem {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 160px;
+  height: 66px;
+}
+.startDateItem {
+  top: 0;
+  border-radius: var(--br-8xs);
+  width: 24px;
+  height: 24px;
+}
+.startDateInner {
+  position: absolute;
+  top: 5.8px;
+  left: 7.8px;
+  width: 9.6px;
+  height: 9.6px;
+  object-fit: contain;
+  display: none;
+}
+.text7 {
+  position: absolute;
+  top: 4px;
+  left: 47px;
+}
+.descriptionChild,
+.startDate1 {
+  position: absolute;
+  top: 310px;
+  left: 0;
+  width: 177px;
+  height: 24px;
+}
+.descriptionChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 155px;
+}
+.description,
+.text8 {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+}
+.description {
+  top: 354px;
+  left: 0;
+  width: 335px;
+  height: 181px;
+  color: var(--color-darkgray-200);
+}
+.endDate {
+  position: absolute;
+  top: 224px;
+  left: 175px;
+  width: 160px;
+  height: 66px;
+}
+.addWorkExperience {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 535px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.buttonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-mediumblue);
+  width: 160px;
+  height: 50px;
+}
+.text12 {
+  position: absolute;
+  top: 16px;
+  left: 64px;
+  font-weight: 600;
+}
+.button,
+.buttonItem {
+  position: absolute;
+  top: 0;
+  left: 175px;
+  width: 160px;
+  height: 50px;
+}
+.buttonItem {
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.text13 {
+  position: absolute;
+  top: 16px;
+  left: 53px;
+  font-weight: 600;
+}
+.button1,
+.buttonRemoveSave {
+  position: absolute;
+  height: 50px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  width: 160px;
+  color: var(--color-tomato-200);
+}
+.buttonRemoveSave {
+  top: 742px;
+  left: 20px;
+  width: 335px;
+  font-family: var(--font-open-sans);
+}
+.button2,
+.popUpChild,
+.popUpItem {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.popUpChild {
+  top: 0;
+  background-color: var(--color-darkslategray-300);
+  height: 812px;
+  opacity: 0.6;
+}
+.button2,
+.popUpItem {
+  top: 514px;
+  height: 298px;
+}
+.button2 {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 317px;
+  height: 50px;
+}
+.text14 {
+  position: absolute;
+  top: 16px;
+  left: 87px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 143px;
+}
+.button3,
+.save {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.button3 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.text15 {
+  position: absolute;
+  top: 16px;
+  left: 96px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 126px;
+}
+.buttonRemoveSave1,
+.remove {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.buttonRemoveSave1 {
+  top: 677px;
+  left: 21px;
+  height: 110px;
+}
+.text16,
+.text17 {
+  position: absolute;
+  top: 621px;
+  left: 42px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-200);
+}
+.text17 {
+  top: 589px;
+  left: 125px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-500);
+}
+.lineIcon {
+  position: absolute;
+  top: 539px;
+  left: 173px;
+  max-height: 100%;
+  width: 30px;
+}
+.popUp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 812px;
+}
+.undoChanges {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

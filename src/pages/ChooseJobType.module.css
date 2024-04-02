@@ -1,0 +1,338 @@
+.typeOfWorkplaceChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 85px;
+}
+.buttonIcon {
+  position: absolute;
+  top: 18px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.manager,
+.text1 {
+  position: absolute;
+  left: 20px;
+}
+.manager {
+  top: 49px;
+  width: 41px;
+  height: 16px;
+}
+.text1 {
+  top: 20px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+  color: var(--color-darkslategray-500);
+}
+.descriptionChild,
+.typeOfWorkplace {
+  position: absolute;
+  top: 246px;
+  left: 20px;
+  width: 335px;
+  height: 85px;
+}
+.descriptionChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  height: 159px;
+}
+.lineIcon {
+  position: absolute;
+  top: 62px;
+  left: 20px;
+  max-height: 100%;
+  width: 295px;
+}
+.text2 {
+  top: 82px;
+  display: inline-block;
+  width: 279px;
+}
+.description,
+.text2,
+.text3 {
+  position: absolute;
+  left: 20px;
+}
+.text3 {
+  top: 20px;
+  font-weight: 600;
+  color: var(--color-midnightblue-300);
+}
+.description {
+  top: 626px;
+  width: 335px;
+  height: 159px;
+  font-size: var(--font-size-sm);
+}
+.technicalInformation {
+  top: 49px;
+  width: 83px;
+  height: 16px;
+}
+.jobLocation,
+.technicalInformation,
+.text5 {
+  position: absolute;
+  left: 20px;
+}
+.text5 {
+  top: 20px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-midnightblue-300);
+}
+.jobLocation {
+  top: 341px;
+  width: 335px;
+  height: 85px;
+}
+.jobPosition,
+.wirelessSymposiumRws {
+  position: absolute;
+  top: 49px;
+  left: 20px;
+  width: 135px;
+  height: 16px;
+}
+.jobPosition {
+  top: 151px;
+  width: 335px;
+  height: 85px;
+}
+.addIcon,
+.company,
+.text8 {
+  position: absolute;
+  top: 49px;
+  left: 20px;
+}
+.addIcon,
+.company {
+  top: 436px;
+  width: 335px;
+  height: 85px;
+}
+.addIcon {
+  top: 18px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.text10,
+.text11 {
+  position: absolute;
+  left: 20px;
+}
+.text10 {
+  top: 20px;
+  font-weight: 600;
+}
+.text11 {
+  top: 49px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.typeOfWork {
+  top: 531px;
+  width: 335px;
+  height: 85px;
+  font-size: var(--font-size-sm);
+  color: var(--color-midnightblue-300);
+}
+.removeIcon,
+.text12,
+.typeOfWork {
+  position: absolute;
+  left: 20px;
+}
+.removeIcon {
+  top: 30px;
+  width: 24px;
+  height: 24px;
+}
+.text12 {
+  top: 94px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-dm-sans);
+  color: var(--color-darkslategray-500);
+}
+.popUpChild,
+.popUpItem {
+  position: absolute;
+  width: 375px;
+}
+.popUpChild {
+  top: -266.5px;
+  left: 32px;
+  background-color: var(--color-darkslategray-300);
+  height: 714.5px;
+  display: none;
+  opacity: 0.6;
+}
+.popUpItem {
+  top: 0;
+  left: 0;
+  height: 447px;
+}
+.text13,
+.text14 {
+  position: absolute;
+  display: inline-block;
+}
+.text13 {
+  top: 63px;
+  left: calc(50% - 59.5px);
+  font-size: var(--font-size-base);
+  width: 183px;
+  height: 18px;
+}
+.text14 {
+  top: 99.6px;
+  left: 71px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  text-align: center;
+  width: 297px;
+  height: 28.2px;
+}
+.lineIcon1 {
+  position: absolute;
+  top: 27.4px;
+  left: 205px;
+  max-height: 100%;
+  width: 30px;
+}
+.temporaryChild,
+.text15 {
+  position: absolute;
+  top: 0;
+  height: 15.8px;
+}
+.text15 {
+  left: 0;
+  display: inline-block;
+  width: 74px;
+}
+.temporaryChild {
+  left: 281px;
+  width: 18px;
+}
+.temporary {
+  top: 309.9px;
+  left: 70px;
+  width: 299px;
+}
+.fullTime,
+.temporary,
+.text16,
+.text17 {
+  position: absolute;
+  height: 15.8px;
+}
+.text16 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 58px;
+}
+.fullTime,
+.text17 {
+  top: 180.5px;
+  left: 70px;
+  width: 299px;
+}
+.text17 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 67px;
+}
+.volunteer {
+  top: 353px;
+  left: 70px;
+  width: 299px;
+}
+.partTime,
+.text18,
+.text19,
+.volunteer {
+  position: absolute;
+  height: 15.8px;
+}
+.text18 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 63px;
+}
+.partTime,
+.text19 {
+  top: 223.6px;
+  left: 70px;
+  width: 299px;
+}
+.text19 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+}
+.apprenticeship {
+  top: 396.1px;
+  left: 70px;
+  width: 299px;
+}
+.apprenticeship,
+.contract,
+.popUp,
+.text20 {
+  position: absolute;
+  height: 15.8px;
+}
+.text20 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 62px;
+}
+.contract,
+.popUp {
+  top: 266.7px;
+  left: 70px;
+  width: 299px;
+}
+.popUp {
+  top: 364px;
+  left: -32px;
+  width: 375px;
+  height: 447px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+  font-family: var(--font-dm-sans);
+}
+.chooseJobType {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-open-sans);
+}

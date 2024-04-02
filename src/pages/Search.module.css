@@ -1,0 +1,503 @@
+.backgroundIcon,
+.textboxIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.backgroundIcon {
+  width: 375px;
+  height: 220px;
+  object-fit: contain;
+}
+.textboxIcon {
+  border-radius: var(--br-3xs);
+  width: 317px;
+  height: 40px;
+}
+.iconSearch {
+  position: absolute;
+  top: 8px;
+  left: 14.2px;
+  width: 22.7px;
+  height: 24px;
+}
+.text {
+  top: 12px;
+  left: 46px;
+  display: inline-block;
+  width: 151px;
+}
+.search1,
+.text,
+.text1 {
+  position: absolute;
+}
+.search1 {
+  top: 88px;
+  left: 29px;
+  width: 317px;
+  height: 40px;
+}
+.text1 {
+  top: 12px;
+  left: 46px;
+  display: inline-block;
+  width: 84px;
+}
+.location {
+  position: absolute;
+  top: 145px;
+  left: 30px;
+  width: 317px;
+  height: 40px;
+}
+.filterIcon {
+  top: 240px;
+  left: 26px;
+  width: 40px;
+  height: 40px;
+}
+.button,
+.filterIcon,
+.text2 {
+  position: absolute;
+}
+.button {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 114px;
+  height: 40px;
+  opacity: 0.2;
+}
+.text2 {
+  top: 12px;
+  left: 30px;
+}
+.seniorDesigner {
+  top: 240px;
+  left: 81px;
+  width: 114px;
+  height: 40px;
+}
+.button1,
+.seniorDesigner,
+.text3 {
+  position: absolute;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 77px;
+  height: 40px;
+  opacity: 0.2;
+}
+.text3 {
+  top: 10px;
+  left: 10px;
+}
+.seniorDesigner1 {
+  top: 240px;
+  left: 210px;
+  width: 77px;
+  height: 40px;
+}
+.button2,
+.seniorDesigner1,
+.text4 {
+  position: absolute;
+}
+.button2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 94px;
+  height: 40px;
+  opacity: 0.2;
+}
+.text4 {
+  top: 12px;
+  left: 23px;
+}
+.header,
+.seniorDesigner2 {
+  position: absolute;
+  top: 240px;
+  left: 302px;
+  width: 94px;
+  height: 40px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 396px;
+  height: 280px;
+}
+.buttonIcon {
+  top: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 203px;
+}
+.buttonIcon,
+.imegeIcon,
+.rectangle {
+  position: absolute;
+  left: 0;
+}
+.rectangle {
+  top: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon {
+  top: 1px;
+  width: 38px;
+  height: 37px;
+  object-fit: cover;
+}
+.logoGoogle,
+.rectangle1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+}
+.rectangle1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.2;
+}
+.text5 {
+  position: absolute;
+  top: 6px;
+  left: 21px;
+}
+.fullTime,
+.rectangle2 {
+  position: absolute;
+  top: 128px;
+  left: 109px;
+  width: 82px;
+  height: 26px;
+}
+.rectangle2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 79px;
+  opacity: 0.2;
+}
+.text6 {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+}
+.design,
+.rectangle3 {
+  position: absolute;
+  top: 128px;
+  left: 20px;
+  width: 79px;
+  height: 26px;
+}
+.rectangle3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 114px;
+  opacity: 0.2;
+}
+.text7 {
+  position: absolute;
+  top: 6px;
+  left: 35px;
+}
+.button3,
+.seniorDesigner3 {
+  position: absolute;
+  top: 128px;
+  left: 201px;
+  width: 114px;
+  height: 26px;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.imegeIcon1,
+.save {
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  width: 14px;
+  height: 20px;
+}
+.save {
+  top: 20.5px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.text8,
+.text9 {
+  position: absolute;
+  top: 172px;
+  left: 20px;
+}
+.text9 {
+  top: 92px;
+  left: 75px;
+  font-size: var(--font-size-xs);
+}
+.text10 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+  white-space: pre-wrap;
+}
+.imege,
+.text10,
+.text11 {
+  position: absolute;
+}
+.text11 {
+  top: 92px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+}
+.imege {
+  top: 99px;
+  left: 66px;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 2px;
+  height: 2px;
+}
+.googleInc,
+.rectangle4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 335px;
+  height: 203px;
+}
+.rectangle4 {
+  border-radius: var(--br-29xl);
+  background-color: var(--color-hotpink);
+  width: 46px;
+  height: 46px;
+  opacity: 0.3;
+}
+.imege1 {
+  position: absolute;
+  top: 8px;
+  left: 8.1px;
+  width: 29.9px;
+  height: 29.9px;
+}
+.dribbbleLogo,
+.imegeIcon2 {
+  position: absolute;
+  height: 46px;
+}
+.imegeIcon2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-163xl);
+  width: 45.8px;
+  object-fit: cover;
+}
+.dribbbleLogo {
+  top: 20px;
+  left: 20px;
+  width: 46px;
+}
+.rectangle5,
+.rectangle6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.1;
+}
+.rectangle6 {
+  width: 79px;
+}
+.rectangle7,
+.text13 {
+  position: absolute;
+  top: 6px;
+  left: 14px;
+}
+.rectangle7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 114px;
+  height: 26px;
+  opacity: 0.1;
+}
+.text16 {
+  position: absolute;
+  top: 92px;
+  left: 73px;
+  font-size: var(--font-size-xs);
+}
+.text17,
+.text18 {
+  position: absolute;
+  left: 20px;
+}
+.text17 {
+  top: 70px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+}
+.text18 {
+  top: 92px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-open-sans);
+}
+.fullTime2,
+.googleInc1 {
+  position: absolute;
+  top: 218px;
+  left: 0;
+  width: 335px;
+  height: 203px;
+}
+.fullTime2 {
+  top: 108px;
+  left: 109px;
+  width: 82px;
+  height: 26px;
+}
+.text20 {
+  position: absolute;
+  top: 6px;
+  left: 24px;
+}
+.design2,
+.seniorDesigner5 {
+  position: absolute;
+  top: 108px;
+  left: 20px;
+  width: 79px;
+  height: 26px;
+}
+.seniorDesigner5 {
+  left: 201px;
+  width: 114px;
+}
+.text22,
+.text23 {
+  position: absolute;
+  top: 152px;
+  left: 20px;
+}
+.text23 {
+  top: 72px;
+  left: 91px;
+  font-size: var(--font-size-xs);
+}
+.text24 {
+  top: 50px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-600);
+}
+.imege3,
+.text24,
+.text25 {
+  position: absolute;
+}
+.text25 {
+  top: 72px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+}
+.imege3 {
+  top: 81px;
+  left: 84px;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 2px;
+  height: 2px;
+}
+.googleInc2,
+.popularJobs {
+  position: absolute;
+  width: 335px;
+}
+.googleInc2 {
+  top: 456px;
+  left: 0;
+  height: 203px;
+  font-family: var(--font-open-sans);
+}
+.popularJobs {
+  top: 300px;
+  left: 20px;
+  height: 659px;
+  font-size: var(--font-size-3xs);
+}
+.imegeIcon4 {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button6,
+.menuBarIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.menuBarIcon {
+  top: 740px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.search {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+  font-family: var(--font-dm-sans);
+}

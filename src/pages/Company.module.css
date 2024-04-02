@@ -1,0 +1,376 @@
+.buttonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.imegeIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button,
+.buttonIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.buttonIcon {
+  left: 331px;
+}
+.text,
+.text1 {
+  position: absolute;
+  left: 2px;
+}
+.text {
+  top: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+}
+.text1 {
+  top: 39px;
+  display: inline-block;
+  width: 329px;
+}
+.inWorldClassLabs {
+  margin: 0;
+}
+.text2,
+.text3 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  display: inline-block;
+  width: 335px;
+}
+.text3 {
+  top: 183px;
+  width: 325px;
+}
+.aboutCompany {
+  position: absolute;
+  top: 310px;
+  left: 18px;
+  width: 335px;
+  height: 247px;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.text4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.text5 {
+  top: 24px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkorange);
+}
+.text5,
+.text7,
+.website {
+  position: absolute;
+}
+.website {
+  top: 548px;
+  left: 20px;
+  width: 142px;
+  height: 40px;
+}
+.text7 {
+  top: 24px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.employeeSize,
+.industry {
+  position: absolute;
+  top: 603px;
+  left: 20px;
+  width: 135px;
+  height: 40px;
+}
+.employeeSize {
+  top: 663px;
+  width: 130px;
+}
+.text10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.headOffice {
+  position: absolute;
+  top: 723px;
+  left: 20px;
+  width: 238px;
+  height: 40px;
+  display: none;
+  font-family: var(--font-open-sans);
+}
+.text13 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.since,
+.type {
+  position: absolute;
+  top: 783px;
+  left: 20px;
+  width: 129px;
+  height: 40px;
+  display: none;
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-open-sans);
+}
+.since {
+  top: 843px;
+  width: 36px;
+}
+.specialization,
+.text17 {
+  position: absolute;
+  width: 279px;
+}
+.text17 {
+  top: 24px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+}
+.specialization {
+  top: 903px;
+  left: 20px;
+  height: 56px;
+  display: none;
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-open-sans);
+}
+.unsplashgmsnxqiljp4Icon {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 223px;
+  height: 118px;
+  object-fit: cover;
+}
+.unsplashuevezouyhgwIcon,
+.unsplashwd1lrb9oeeo,
+.unsplashwd1lrb9oeeoIcon {
+  position: absolute;
+  left: 233px;
+  border-radius: var(--br-3xs);
+  width: 102px;
+  height: 54px;
+}
+.unsplashuevezouyhgwIcon {
+  top: 39px;
+  object-fit: cover;
+}
+.unsplashwd1lrb9oeeo,
+.unsplashwd1lrb9oeeoIcon {
+  top: 103px;
+}
+.unsplashwd1lrb9oeeoIcon {
+  object-fit: cover;
+}
+.unsplashwd1lrb9oeeo {
+  background-color: var(--color-darkslategray-700);
+  opacity: 0.7;
+}
+.pictures {
+  position: absolute;
+  top: 122px;
+  left: 252px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.companyGallery {
+  position: absolute;
+  top: 979px;
+  left: 20px;
+  width: 335px;
+  height: 157px;
+  display: none;
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-open-sans);
+}
+.menuBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 78px;
+}
+.buttonIcon1,
+.buttonIcon2 {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+}
+.buttonIcon2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 270px;
+}
+.text18 {
+  position: absolute;
+  top: 17px;
+  left: 93px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button3 {
+  position: absolute;
+  top: 14px;
+  left: 85px;
+  width: 270px;
+  height: 50px;
+}
+.button5,
+.menuBar {
+  position: absolute;
+  left: 0;
+}
+.menuBar {
+  top: 734px;
+  width: 375px;
+  height: 78px;
+  color: var(--color-white);
+}
+.button5 {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+  width: 162px;
+  height: 40px;
+}
+.text19 {
+  position: absolute;
+  top: 10px;
+  left: 49px;
+}
+.button4,
+.button6,
+.tabMenu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 162px;
+  height: 40px;
+}
+.button6,
+.tabMenu {
+  left: 176px;
+}
+.button6 {
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+}
+.tabMenuParent,
+.text20 {
+  position: absolute;
+  top: 10px;
+  left: 42px;
+  color: var(--color-white);
+}
+.tabMenuParent {
+  top: 250px;
+  left: 19px;
+  width: 338px;
+  height: 40px;
+  color: var(--color-midnightblue-100);
+}
+.rectangle {
+  top: 52px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 114px;
+}
+.rectangle,
+.text21,
+.text22 {
+  position: absolute;
+}
+.text21 {
+  top: 87px;
+  left: calc(50% - 33.5px);
+}
+.text22 {
+  top: 124px;
+  left: 29px;
+}
+.imege,
+.imege1,
+.text23,
+.text24 {
+  position: absolute;
+  top: 124px;
+  left: 158px;
+}
+.imege,
+.imege1,
+.text24 {
+  left: 276px;
+}
+.imege,
+.imege1 {
+  top: 133px;
+  left: 104px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-300);
+  width: 7px;
+  height: 7px;
+}
+.imege1 {
+  left: 245px;
+}
+.imegeIcon2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 41.5px);
+  width: 83px;
+  height: 76px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 375px;
+  height: 166px;
+  font-size: var(--font-size-base);
+}
+.company {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-dm-sans);
+}

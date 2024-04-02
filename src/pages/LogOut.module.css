@@ -1,0 +1,266 @@
+.notificationsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 50px;
+}
+.notificationsItem {
+  position: absolute;
+  top: 13px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  position: absolute;
+  top: 17px;
+  left: 55px;
+}
+.selectIcon,
+.selectIcon1 {
+  position: absolute;
+  top: 16px;
+  left: 277px;
+  width: 38px;
+  height: 19px;
+}
+.selectIcon1 {
+  top: 19px;
+  left: 198px;
+  width: 12px;
+  height: 12px;
+}
+.darkModeItem,
+.icon,
+.notifications {
+  position: absolute;
+  top: 141px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+}
+.darkModeItem,
+.icon {
+  top: 13px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.darkModeItem {
+  top: 16px;
+  left: 277px;
+  width: 38px;
+  height: 19px;
+  object-fit: contain;
+}
+.darkMode,
+.selectIcon3 {
+  position: absolute;
+  top: 201px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+}
+.selectIcon3 {
+  top: 19px;
+  left: 300px;
+  width: 12px;
+  height: 12px;
+}
+.logout,
+.password {
+  position: absolute;
+  top: 261px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+}
+.logout {
+  top: 321px;
+}
+.saveChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-blueviolet);
+  width: 213px;
+  height: 50px;
+}
+.save,
+.saveChild,
+.text4 {
+  position: absolute;
+}
+.text4 {
+  top: 16px;
+  left: 91px;
+  font-weight: 600;
+}
+.save {
+  top: 742px;
+  left: 81px;
+  width: 213px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.backChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.back,
+.text5 {
+  position: absolute;
+  left: 20px;
+}
+.back {
+  top: 30px;
+  width: 24px;
+  height: 24px;
+}
+.text5 {
+  top: 94px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-darkslateblue-400);
+}
+.popUpChild,
+.popUpItem {
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 375px;
+}
+.popUpChild {
+  position: absolute;
+  top: -504px;
+  background-color: var(--color-darkslategray-300);
+  height: 812px;
+  display: none;
+  opacity: 0.6;
+}
+.popUpItem {
+  top: 0;
+  height: 308px;
+}
+.button1,
+.popUpItem,
+.text6 {
+  position: absolute;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 317px;
+  height: 50px;
+}
+.text6 {
+  top: 16px;
+  left: 147px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 33px;
+}
+.button {
+  top: 0;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.button,
+.button3,
+.text7 {
+  position: absolute;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+  width: 317px;
+  height: 50px;
+}
+.text7 {
+  top: 16px;
+  left: 138px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 63px;
+}
+.button2,
+.buttonRemoveSave {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.buttonRemoveSave {
+  top: 168px;
+  left: 29px;
+  height: 110px;
+}
+.text8,
+.text9 {
+  position: absolute;
+}
+.text8 {
+  top: 107px;
+  left: 100px;
+  font-size: var(--font-size-xs);
+  color: #485570;
+  text-align: center;
+}
+.text9 {
+  top: 75px;
+  left: 158px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-400);
+}
+.lineIcon1 {
+  position: absolute;
+  top: 25px;
+  left: 173px;
+  border-radius: var(--br-7xs);
+  max-height: 100%;
+  width: 30px;
+}
+.popUp {
+  position: absolute;
+  top: 504px;
+  left: 0;
+  width: 375px;
+  height: 308px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.logOut {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-dm-sans);
+}
