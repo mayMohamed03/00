@@ -1,0 +1,382 @@
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.text,
+.text1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.text1 {
+  top: 24px;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.industry {
+  position: absolute;
+  top: 603px;
+  left: 20px;
+  width: 135px;
+  height: 40px;
+}
+.employeeSizeIcon {
+  position: absolute;
+  top: 0;
+  left: 0.6px;
+  width: 94.2px;
+  height: 13.2px;
+}
+.employeeSize,
+.textIcon {
+  position: absolute;
+  top: 23.4px;
+  left: 0;
+  width: 128.9px;
+  height: 11.3px;
+}
+.employeeSize {
+  top: 666.9px;
+  left: 20.4px;
+  height: 34.7px;
+}
+.headOffice,
+.since,
+.type {
+  position: absolute;
+  top: 723px;
+  left: 20px;
+  width: 231px;
+  height: 40px;
+}
+.since,
+.type {
+  top: 783px;
+  width: 127px;
+}
+.since {
+  top: 843px;
+  width: 38px;
+}
+.specialization,
+.text9 {
+  position: absolute;
+  width: 279px;
+}
+.text9 {
+  top: 24px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+  display: inline-block;
+}
+.specialization {
+  top: 903px;
+  left: 20px;
+  height: 56px;
+}
+.text10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.companyGallery {
+  position: absolute;
+  top: 979px;
+  left: 20px;
+  width: 116px;
+  height: 19px;
+  font-family: var(--font-open-sans);
+}
+.menuBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 78px;
+}
+.buttonIcon,
+.saveIcon {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+}
+.buttonIcon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 270px;
+}
+.text11 {
+  position: absolute;
+  top: 17px;
+  left: 93px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button4,
+.menuBar {
+  position: absolute;
+  top: 14px;
+  left: 85px;
+  width: 270px;
+  height: 50px;
+}
+.menuBar {
+  top: 1156px;
+  left: 0;
+  width: 375px;
+  height: 78px;
+  color: var(--color-white);
+}
+.button5,
+.buttonIcon1,
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 329px;
+  width: 24px;
+  height: 24px;
+}
+.button5,
+.rectangle {
+  left: 0;
+}
+.button5 {
+  left: 20px;
+}
+.rectangle1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 114px;
+}
+.rectangle1,
+.text12,
+.text13 {
+  position: absolute;
+}
+.text12 {
+  top: 35px;
+  left: calc(50% - 33.5px);
+}
+.text13 {
+  top: 72px;
+  left: 29px;
+}
+.imege,
+.imege1,
+.text14,
+.text15 {
+  position: absolute;
+  top: 72px;
+  left: 158px;
+}
+.imege,
+.imege1,
+.text15 {
+  left: 276px;
+}
+.imege,
+.imege1 {
+  top: 81px;
+  left: 104px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-300);
+  width: 7px;
+  height: 7px;
+}
+.imege1 {
+  left: 245px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  width: 375px;
+  height: 114px;
+}
+.imegeIcon {
+  position: absolute;
+  top: 35px;
+  left: calc(50% - 42.5px);
+  width: 83px;
+  height: 76px;
+  object-fit: cover;
+}
+.buttonParent {
+  position: absolute;
+  top: 30px;
+  left: 2px;
+  width: 375px;
+  height: 219px;
+  font-size: var(--font-size-base);
+}
+.imageIcon,
+.imageIcon1 {
+  top: 1021px;
+  border-radius: var(--br-7xs);
+  width: 158px;
+  height: 115px;
+  object-fit: cover;
+}
+.imageIcon {
+  position: absolute;
+  left: 20px;
+}
+.imageIcon1 {
+  left: 194px;
+}
+.imageIcon1,
+.imege2,
+.text16 {
+  position: absolute;
+}
+.imege2 {
+  top: 1021px;
+  left: 194px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-700);
+  width: 158px;
+  height: 115px;
+  opacity: 0.7;
+}
+.text16 {
+  top: 1071px;
+  left: 241px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+}
+.button6 {
+  top: 6px;
+  left: 171px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.button6,
+.button7,
+.button8,
+.button9 {
+  position: absolute;
+  width: 162px;
+  height: 40px;
+}
+.button7 {
+  top: 6px;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+}
+.button8,
+.button9 {
+  top: 0;
+}
+.button9 {
+  left: 0;
+  border-radius: var(--br-3xs);
+}
+.button8 {
+  left: 4px;
+}
+.buttonGroup,
+.text17,
+.text18 {
+  position: absolute;
+  top: 16px;
+  left: 220px;
+}
+.buttonGroup,
+.text18 {
+  left: 42px;
+  color: var(--color-white);
+}
+.buttonGroup {
+  top: 245px;
+  left: 21px;
+  width: 333px;
+  height: 46px;
+  color: var(--color-midnightblue-100);
+}
+.text19,
+.text20 {
+  position: absolute;
+  left: 2px;
+}
+.text19 {
+  top: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+}
+.text20 {
+  top: 39px;
+  display: inline-block;
+  width: 329px;
+}
+.inWorldClassLabs {
+  margin: 0;
+}
+.text21,
+.text22 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  display: inline-block;
+  width: 335px;
+}
+.text22 {
+  top: 183px;
+  width: 325px;
+}
+.aboutCompany,
+.text24 {
+  position: absolute;
+  font-size: var(--font-size-xs);
+}
+.aboutCompany {
+  top: 310px;
+  left: 20px;
+  width: 335px;
+  height: 247px;
+  color: var(--color-slategray-100);
+}
+.text24 {
+  top: 24px;
+  left: 0;
+  color: var(--color-darkorange);
+}
+.website {
+  position: absolute;
+  top: 547px;
+  left: 21px;
+  width: 142px;
+  height: 40px;
+}
+.company {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 1234px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-dm-sans);
+}

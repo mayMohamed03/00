@@ -1,0 +1,304 @@
+.uiuxDesignerChild {
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 203px;
+}
+.imege,
+.imegeIcon,
+.uiuxDesignerChild {
+  position: absolute;
+  top: 0;
+}
+.imege {
+  left: 2px;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon {
+  left: 0;
+  width: 44px;
+  height: 39px;
+  object-fit: cover;
+}
+.fullTimeChild,
+.logoGoogle {
+  position: absolute;
+  top: 20px;
+  left: 18px;
+  width: 44px;
+  height: 40px;
+}
+.fullTimeChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.2;
+}
+.text {
+  position: absolute;
+  top: 6px;
+  left: 21px;
+}
+.designChild,
+.fullTime {
+  position: absolute;
+  top: 128px;
+  left: 109px;
+  width: 82px;
+  height: 26px;
+}
+.designChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 79px;
+  opacity: 0.2;
+}
+.design,
+.text1 {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+}
+.design {
+  top: 128px;
+  left: 20px;
+  width: 79px;
+  height: 26px;
+}
+.seniorDesigner,
+.seniorDesignerChild {
+  position: absolute;
+  width: 78px;
+  height: 26px;
+}
+.seniorDesignerChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  opacity: 0.2;
+}
+.seniorDesigner {
+  top: 128px;
+  left: 201px;
+}
+.optionsIcon {
+  top: 30px;
+  left: 295px;
+  width: 20px;
+  height: 20px;
+}
+.optionsIcon,
+.text3,
+.text4 {
+  position: absolute;
+}
+.text3 {
+  top: 172px;
+  left: 20px;
+  color: var(--color-darkgray-200);
+}
+.text4 {
+  top: 92px;
+  left: 87px;
+  font-size: var(--font-size-xs);
+}
+.text5 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-300);
+}
+.imege1,
+.text5,
+.text6 {
+  position: absolute;
+}
+.text6 {
+  top: 92px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-open-sans);
+}
+.imege1 {
+  top: 101px;
+  left: 70px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.imegeIcon1,
+.uiuxDesigner {
+  position: absolute;
+  top: 87px;
+  left: 20px;
+  width: 335px;
+  height: 203px;
+}
+.imegeIcon1 {
+  top: 20px;
+  border-radius: var(--br-11xl);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.designItem,
+.fullTimeItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.1;
+}
+.designItem {
+  width: 79px;
+}
+.text8 {
+  position: absolute;
+  top: 6px;
+  left: 24px;
+}
+.seniorDesignerItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 78px;
+  height: 26px;
+  opacity: 0.1;
+}
+.text11,
+.text9 {
+  position: absolute;
+  top: 6px;
+  left: 19px;
+}
+.text11 {
+  top: 93px;
+  left: 99px;
+  font-size: var(--font-size-xs);
+}
+.text12 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-600);
+  white-space: pre-wrap;
+}
+.imege2,
+.text12,
+.text13 {
+  position: absolute;
+}
+.text13 {
+  top: 93px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+}
+.imege2 {
+  top: 101px;
+  left: 82px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.leadDesigner,
+.twitterLogoIcon {
+  position: absolute;
+  top: 305px;
+  left: 20px;
+  width: 335px;
+  height: 203px;
+}
+.twitterLogoIcon {
+  top: 20px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.text18 {
+  position: absolute;
+  top: 92px;
+  left: 91px;
+  font-size: var(--font-size-xs);
+}
+.text19 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-600);
+}
+.imege3,
+.text19,
+.text20 {
+  position: absolute;
+}
+.text20 {
+  top: 92px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+}
+.imege3 {
+  top: 101px;
+  left: 84px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.menuBarIcon,
+.uxResearcher {
+  position: absolute;
+  top: 523px;
+  left: 20px;
+  width: 335px;
+  height: 203px;
+}
+.menuBarIcon {
+  top: 740px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.button,
+.text21 {
+  position: absolute;
+  top: 35px;
+  left: 125px;
+  font-size: var(--font-size-xl);
+  color: var(--color-midnightblue-200);
+}
+.button {
+  left: 302px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-open-sans);
+  color: var(--color-darkorange);
+}
+.saveJob {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

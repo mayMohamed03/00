@@ -1,0 +1,272 @@
+.backChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.back,
+.indonesianChild {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.indonesianChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 127px;
+}
+.icon,
+.indonesianItem {
+  position: absolute;
+  top: 23px;
+  left: 296px;
+  width: 24px;
+  height: 24px;
+}
+.indonesianItem {
+  top: 20px;
+  left: 15px;
+  border-radius: var(--br-9xl);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.text {
+  position: absolute;
+  top: 27px;
+  left: 55px;
+  font-family: var(--font-dm-sans);
+  color: var(--color-midnightblue-200);
+}
+.indonesian,
+.text1,
+.text2 {
+  position: absolute;
+  top: 65px;
+  left: 15px;
+}
+.indonesian,
+.text2 {
+  top: 91px;
+}
+.indonesian {
+  top: 52px;
+  left: 0;
+  width: 335px;
+  height: 127px;
+}
+.text3 {
+  position: absolute;
+  top: 27px;
+  left: 55px;
+  font-weight: 600;
+  color: var(--color-midnightblue-200);
+}
+.english {
+  top: 194px;
+  left: 0;
+  width: 335px;
+  height: 127px;
+}
+.english,
+.iconAdd,
+.text6 {
+  position: absolute;
+}
+.iconAdd {
+  top: 0;
+  left: 37px;
+  width: 24px;
+  height: 24px;
+}
+.text6 {
+  top: 2px;
+  left: 0;
+  font-weight: 600;
+}
+.add,
+.text7 {
+  position: absolute;
+  top: 0;
+}
+.add {
+  left: 274px;
+  width: 61px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkorange);
+}
+.text7 {
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--color-midnightblue-200);
+}
+.addLanguage {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 321px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+}
+.saveChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-blueviolet);
+  width: 213px;
+  height: 50px;
+}
+.text8 {
+  position: absolute;
+  top: 16px;
+  left: 91px;
+  font-weight: 600;
+}
+.popUpChild,
+.save {
+  position: absolute;
+  top: 742px;
+  left: 81px;
+  width: 213px;
+  height: 50px;
+}
+.popUpChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-300);
+  width: 375px;
+  height: 812px;
+  opacity: 0.6;
+}
+.popUpItem {
+  top: 504px;
+  left: 0;
+  width: 375px;
+  height: 308px;
+}
+.button1,
+.popUpItem,
+.text9 {
+  position: absolute;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 317px;
+  height: 50px;
+}
+.text9 {
+  top: 16px;
+  left: 88px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 142px;
+}
+.button,
+.button3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.button3 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.text10 {
+  position: absolute;
+  top: 16px;
+  left: 93px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 131px;
+}
+.button2,
+.buttonRemoveSave {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.buttonRemoveSave {
+  top: 672px;
+  left: 29px;
+  height: 110px;
+}
+.text11,
+.text12 {
+  position: absolute;
+}
+.text11 {
+  top: 611px;
+  left: 40px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  text-align: center;
+}
+.text12 {
+  top: 581px;
+  left: 125px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue-200);
+}
+.lineIcon1 {
+  position: absolute;
+  top: 529px;
+  left: 173px;
+  max-height: 100%;
+  width: 30px;
+}
+.popUp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 812px;
+  font-family: var(--font-dm-sans);
+}
+.removeLanguageChild {
+  position: absolute;
+  top: 166px;
+  left: 35px;
+  border-radius: var(--br-9xl);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.removeLanguage {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}

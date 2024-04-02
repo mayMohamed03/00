@@ -1,0 +1,242 @@
+.buttonIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 259px;
+  height: 50px;
+}
+.text {
+  position: absolute;
+  top: 16px;
+  left: 41px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.findASimilarJob {
+  position: absolute;
+  top: 642px;
+  left: 58px;
+  width: 259px;
+  height: 50px;
+}
+.text1 {
+  position: absolute;
+  top: 16px;
+  left: 73px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button,
+.rectangleIcon {
+  position: absolute;
+  top: 712px;
+  left: 58px;
+  width: 259px;
+  height: 50px;
+}
+.rectangleIcon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 75px;
+}
+.imegeIcon,
+.rectangle,
+.rectangleIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.imegeIcon,
+.rectangleIcon1 {
+  left: 5.5px;
+  width: 33px;
+}
+.imegeIcon {
+  left: 26px;
+  width: 12.5px;
+  height: 13px;
+}
+.text2 {
+  top: 23px;
+  left: 12px;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
+.pdf,
+.text2,
+.text3 {
+  position: absolute;
+}
+.pdf {
+  top: 15px;
+  left: 16px;
+  width: 44px;
+  height: 44px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.text3 {
+  top: 19px;
+  left: 75px;
+  color: var(--color-darkslateblue-300);
+}
+.imege,
+.text4,
+.text5 {
+  position: absolute;
+  top: 40px;
+  left: 75px;
+}
+.imege,
+.text5 {
+  left: 126px;
+}
+.imege {
+  top: 49px;
+  left: 119px;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 2px;
+  height: 2px;
+}
+.jametKudasiCvUiuxDesi {
+  position: absolute;
+  top: 271px;
+  left: 20px;
+  width: 335px;
+  height: 75px;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.illustrationIcon {
+  position: absolute;
+  top: 365.4px;
+  left: 110px;
+  width: 152.2px;
+  height: 151.6px;
+}
+.text6,
+.text7 {
+  position: absolute;
+}
+.text6 {
+  top: 549px;
+  left: 147px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-300);
+  text-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+}
+.text7 {
+  top: 586px;
+  left: 54px;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.buttonIcon2 {
+  position: absolute;
+  top: 0;
+  left: 309px;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button1,
+.buttonParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.buttonParent {
+  top: 25px;
+  left: 23px;
+  width: 333px;
+}
+.rectangle1 {
+  top: 63px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 114px;
+}
+.rectangle1,
+.text8,
+.text9 {
+  position: absolute;
+}
+.text8 {
+  top: 98px;
+  left: calc(50% - 33.5px);
+}
+.text9 {
+  top: 135px;
+  left: 29px;
+}
+.imege1,
+.imege2,
+.text10,
+.text11 {
+  position: absolute;
+  top: 135px;
+  left: 158px;
+}
+.imege1,
+.imege2,
+.text11 {
+  left: 276px;
+}
+.imege1,
+.imege2 {
+  top: 144px;
+  left: 104px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-300);
+  width: 7px;
+  height: 7px;
+}
+.imege2 {
+  left: 245px;
+}
+.imegeIcon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 32.5px);
+  width: 83px;
+  height: 76px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 63px;
+  left: -9px;
+  width: 375px;
+  height: 177px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-300);
+}
+.successful {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

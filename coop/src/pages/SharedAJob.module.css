@@ -1,0 +1,239 @@
+.menuBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.iconCamera,
+.iconPicture {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.iconPicture {
+  left: 64px;
+}
+.button,
+.menuBar {
+  position: absolute;
+  top: 19px;
+  left: 282px;
+}
+.menuBar {
+  top: 740px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+  color: var(--color-darkorange);
+}
+.brandoneLouis,
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.brandoneLouis {
+  top: 185px;
+  left: 85px;
+  width: 65px;
+  height: 16px;
+}
+.descriptionChild {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 298px;
+}
+.span {
+  color: var(--color-darkslateblue-200);
+}
+.text1,
+.text2,
+.text3 {
+  position: absolute;
+  left: 20px;
+}
+.text1 {
+  top: 77px;
+  display: inline-block;
+  width: 289px;
+}
+.text2,
+.text3 {
+  top: 46px;
+}
+.text3 {
+  top: 0;
+  left: 0;
+  color: var(--color-darkslategray-500);
+}
+.addWorkExperience,
+.appleIncChild,
+.description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 335px;
+  height: 324px;
+}
+.addWorkExperience,
+.appleIncChild {
+  top: 236px;
+  left: 20px;
+}
+.appleIncChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 295px;
+  height: 153px;
+}
+.optionsIcon {
+  position: absolute;
+  top: 28px;
+  left: 271px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.text4,
+.text5 {
+  position: absolute;
+  left: 70px;
+}
+.text4 {
+  top: 20px;
+  color: var(--color-darkslategray-500);
+}
+.text5 {
+  top: 44px;
+  font-family: var(--font-open-sans);
+  white-space: pre-wrap;
+}
+.text6 {
+  top: 65px;
+  left: 84px;
+}
+.imege,
+.text6,
+.text7 {
+  position: absolute;
+}
+.text7 {
+  top: 65px;
+  left: 165px;
+  font-family: var(--font-open-sans);
+}
+.imege {
+  top: 72px;
+  left: 158px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.buttonIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 143px;
+  height: 32px;
+}
+.text8 {
+  position: absolute;
+  top: 8px;
+  left: 20px;
+}
+.applicationDetails {
+  position: absolute;
+  top: 101px;
+  left: 70px;
+  width: 143px;
+  height: 32px;
+  color: var(--color-midnightblue-400);
+}
+.appleInc,
+.button2 {
+  position: absolute;
+  top: 397px;
+  left: 40px;
+  width: 295px;
+  height: 153px;
+}
+.button2 {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button1,
+.text9 {
+  position: absolute;
+  left: 20px;
+}
+.button1 {
+  top: 30px;
+  width: 24px;
+  height: 24px;
+}
+.text9 {
+  top: 94px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-500);
+}
+.button3,
+.text10 {
+  position: absolute;
+  top: 35px;
+  left: 329px;
+  color: var(--color-darkorange);
+}
+.text10 {
+  top: 158px;
+  left: 87px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+}
+.imegeIcon,
+.maskGroupIcon {
+  position: absolute;
+  top: 148px;
+  left: 20px;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+.imegeIcon {
+  top: 411px;
+  left: 54px;
+  border-radius: var(--br-165xl);
+  width: 40px;
+  height: 36.1px;
+  object-fit: cover;
+}
+.sharedAJob {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

@@ -1,0 +1,29 @@
+.textareaIcon {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 155px;
+}
+.text {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+}
+.description,
+.text1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-darkslategray-500);
+}
+.description {
+  top: 91px;
+  width: 335px;
+  height: 181px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightslategray-200);
+  font-family: var(--font-dm-sans);
+}

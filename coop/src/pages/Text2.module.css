@@ -1,0 +1,9 @@
+.div {
+  width: 46px;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-open-sans);
+  color: #ff0202;
+  text-align: left;
+  display: inline-block;
+}

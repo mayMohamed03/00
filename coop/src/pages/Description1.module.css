@@ -1,0 +1,289 @@
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button {
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.button,
+.button3,
+.text {
+  position: absolute;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-steelblue);
+  width: 91px;
+  height: 30px;
+  opacity: 0.2;
+}
+.text {
+  top: 5px;
+  left: 14px;
+}
+.button2,
+.text1 {
+  position: absolute;
+  left: 0;
+}
+.button2 {
+  top: 152px;
+  width: 91px;
+  height: 30px;
+}
+.text1 {
+  top: 0;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-darkslateblue-300);
+  white-space: pre-wrap;
+}
+.jobDescription,
+.text2 {
+  position: absolute;
+  width: 329px;
+}
+.text2 {
+  top: 25px;
+  left: 0;
+  color: var(--color-slategray-100);
+  display: inline-block;
+}
+.jobDescription {
+  top: 281px;
+  left: 20px;
+  height: 182px;
+}
+.text3 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-darkslateblue-300);
+}
+.requirementsChild {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 4px;
+  height: 4px;
+}
+.availabilityOfA {
+  margin: 0;
+}
+.imege,
+.text4 {
+  position: absolute;
+}
+.text4 {
+  top: 0;
+  left: 15px;
+  display: inline-block;
+  width: 295px;
+  height: 35px;
+}
+.imege {
+  top: 7px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 4px;
+  height: 4px;
+}
+.textParent {
+  position: absolute;
+  top: 107px;
+  left: 1px;
+  width: 310px;
+  height: 35px;
+}
+.text5,
+.textGroup {
+  position: absolute;
+  height: 24px;
+}
+.text5 {
+  top: 0;
+  left: 13px;
+  display: inline-block;
+  width: 292px;
+}
+.textGroup {
+  top: 77px;
+  left: 1px;
+  width: 305px;
+}
+.text6 {
+  top: 93px;
+  left: 15px;
+  display: inline-block;
+  width: 306px;
+}
+.imege2,
+.text6,
+.text7 {
+  position: absolute;
+}
+.imege2 {
+  top: 100px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-slategray-100);
+  width: 4px;
+  height: 4px;
+}
+.text7 {
+  top: 0;
+  left: 11px;
+  display: inline-block;
+  width: 358px;
+  height: 44px;
+}
+.requirements,
+.textContainer {
+  position: absolute;
+  top: 55px;
+  left: 3px;
+  width: 369px;
+  height: 157px;
+}
+.requirements {
+  top: 491px;
+  left: 17px;
+  width: 372px;
+  height: 212px;
+  color: var(--color-slategray-100);
+}
+.buttonIcon {
+  position: absolute;
+  top: 30px;
+  left: 331px;
+  width: 24px;
+  height: 24px;
+}
+.buttonIcon1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 270px;
+  height: 50px;
+}
+.button4,
+.buttonIcon1,
+.text8 {
+  position: absolute;
+}
+.text8 {
+  top: 15px;
+  left: 93px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button4 {
+  top: 735px;
+  left: 47px;
+  width: 270px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}
+.rectangle {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 114px;
+}
+.rectangle,
+.text10,
+.text9 {
+  position: absolute;
+}
+.text9 {
+  top: 35px;
+  left: calc(50% - 33.5px);
+}
+.text10 {
+  top: 72px;
+  left: 29px;
+}
+.imege3,
+.imege4,
+.text11,
+.text12 {
+  position: absolute;
+  top: 72px;
+  left: 158px;
+}
+.imege3,
+.imege4,
+.text12 {
+  left: 276px;
+}
+.imege3,
+.imege4 {
+  top: 81px;
+  left: 104px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-300);
+  width: 7px;
+  height: 7px;
+}
+.imege4 {
+  left: 245px;
+}
+.imegeIcon,
+.rectangleParent {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 375px;
+  height: 114px;
+}
+.imegeIcon {
+  top: 0;
+  left: 143px;
+  width: 83px;
+  height: 76px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 82px;
+  left: 0;
+  width: 375px;
+  height: 166px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-dm-sans);
+}
+.description {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-open-sans);
+}

@@ -1,0 +1,327 @@
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button,
+.lineIcon,
+.text {
+  position: absolute;
+}
+.button {
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  top: 81px;
+  left: 108px;
+}
+.jametKudasiCvUiuxDesiChild,
+.jobDetileChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 523px;
+}
+.jametKudasiCvUiuxDesiChild {
+  border-radius: var(--br-mini);
+  width: 305px;
+  height: 74px;
+}
+.imege,
+.text1 {
+  position: absolute;
+  top: 40px;
+  left: 119px;
+}
+.imege {
+  top: 46px;
+  left: 112px;
+  border-radius: 50%;
+  background-color: var(--color-silver-200);
+  width: 2px;
+  height: 2px;
+}
+.optionIcon {
+  position: absolute;
+  top: 30px;
+  left: 312px;
+  width: 3px;
+  height: 15px;
+  object-fit: contain;
+  display: none;
+}
+.pdfChild,
+.pdfItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.pdfItem {
+  left: 5.5px;
+  width: 33px;
+}
+.pdfInner {
+  top: 0;
+  left: 26px;
+  width: 12.5px;
+  height: 13px;
+}
+.pdf,
+.pdfInner,
+.text2 {
+  position: absolute;
+}
+.text2 {
+  top: 23px;
+  left: 12px;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
+.pdf {
+  top: 15px;
+  left: 15px;
+  width: 44px;
+  height: 44px;
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.text3,
+.text4 {
+  position: absolute;
+  left: 74px;
+}
+.text3 {
+  top: 19px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-500);
+}
+.text4 {
+  top: 40px;
+}
+.jametKudasiCvUiuxDesi {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 305px;
+  height: 74px;
+}
+.text5 {
+  position: absolute;
+  top: 0;
+  left: 13px;
+}
+.cvresume,
+.imege1 {
+  position: absolute;
+  left: 0;
+}
+.imege1 {
+  top: 7px;
+  border-radius: 50%;
+  background-color: var(--color-silver-200);
+  width: 3px;
+  height: 3px;
+}
+.cvresume {
+  top: 39px;
+  width: 78px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-open-sans);
+}
+.applicationDetails,
+.text6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+}
+.applicationDetails {
+  top: 284px;
+  width: 305px;
+  height: 139px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-silver-200);
+}
+.textGroup,
+.textParent {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 61px;
+  height: 16px;
+}
+.textGroup {
+  top: 70px;
+  width: 60px;
+  color: var(--color-dimgray-200);
+}
+.text9 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+}
+.jobDetails,
+.shipped,
+.update {
+  position: absolute;
+  top: 137px;
+  left: 0;
+  width: 76px;
+  height: 86px;
+}
+.shipped,
+.update {
+  top: 60px;
+  width: 249px;
+  height: 16px;
+}
+.update {
+  top: 91px;
+  width: 199px;
+}
+.imege6,
+.text12,
+.text13 {
+  position: absolute;
+  top: 0;
+  left: 60px;
+}
+.imege6,
+.text13 {
+  left: 0;
+}
+.imege6 {
+  top: 9px;
+  left: 53px;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray-100);
+  width: 2px;
+  height: 2px;
+}
+.californiaUsa {
+  position: absolute;
+  top: 24px;
+  left: 12px;
+  width: 126px;
+  height: 16px;
+}
+.text14,
+.uiuxDesigner {
+  position: absolute;
+  top: 0;
+}
+.text14 {
+  left: 1px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+  color: var(--color-darkslategray-500);
+}
+.uiuxDesigner {
+  left: 0;
+  width: 249px;
+  height: 107px;
+  font-family: var(--font-open-sans);
+}
+.button3,
+.googleInc {
+  position: absolute;
+  top: 80px;
+  left: 15px;
+  width: 305px;
+  height: 423px;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 213px;
+  height: 50px;
+}
+.text15 {
+  position: absolute;
+  top: 16px;
+  left: 4px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 226px;
+  height: 17px;
+}
+.button2,
+.jobDetile {
+  position: absolute;
+  top: 546px;
+  left: 61px;
+  width: 230px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.jobDetile {
+  top: 146px;
+  left: 20px;
+  width: 335px;
+  height: 596px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-100);
+}
+.imege7 {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon,
+.logoGoogle {
+  position: absolute;
+  height: 41px;
+}
+.imegeIcon {
+  top: 0;
+  left: 0;
+  width: 40px;
+  object-fit: cover;
+}
+.logoGoogle {
+  top: 168px;
+  left: 35px;
+  width: 41px;
+}
+.yourApplication {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-dm-sans);
+}

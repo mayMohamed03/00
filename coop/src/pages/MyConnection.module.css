@@ -1,0 +1,274 @@
+.googleIncChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 160px;
+  height: 191px;
+}
+.googleIncItem {
+  top: 146px;
+  left: 30px;
+  border-radius: var(--br-xl);
+  border: 0.5px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 100px;
+  height: 30px;
+}
+.googleIncItem,
+.text,
+.text1 {
+  position: absolute;
+}
+.text {
+  top: 91px;
+  left: 58px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+}
+.text1 {
+  top: 115px;
+  left: 43px;
+  color: var(--color-darkgray-200);
+}
+.imege,
+.text2 {
+  position: absolute;
+  top: 153px;
+  left: 62px;
+}
+.imege {
+  top: 25px;
+  left: 58px;
+  border-radius: 50%;
+  background-color: rgba(255, 213, 0, 0.53);
+  width: 46px;
+  height: 46px;
+}
+.imegeIcon {
+  position: absolute;
+  top: 26px;
+  left: 59px;
+  width: 43px;
+  height: 41px;
+  object-fit: cover;
+}
+.googleInc,
+.imegeIcon1 {
+  position: absolute;
+  top: 50px;
+  left: 16px;
+  width: 160px;
+  height: 191px;
+}
+.imegeIcon1 {
+  top: 30px;
+  left: 57px;
+  border-radius: 61px;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.text3 {
+  position: absolute;
+  top: 91px;
+  left: 61px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+}
+.imegeIcon2,
+.sabicInc {
+  position: absolute;
+  top: 256px;
+  left: 16px;
+  width: 160px;
+  height: 191px;
+}
+.imegeIcon2 {
+  top: 30px;
+  left: 58px;
+  border-radius: var(--br-55xl);
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.text6 {
+  position: absolute;
+  top: 91px;
+  left: 50px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+}
+.imege1,
+.riyadBank {
+  position: absolute;
+  top: 462px;
+  left: 16px;
+  width: 160px;
+  height: 191px;
+}
+.imege1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-hotpink);
+  width: 46px;
+  height: 46px;
+  opacity: 0.3;
+}
+.rectangle {
+  position: absolute;
+  top: 8px;
+  left: 8.1px;
+  width: 29.9px;
+  height: 29.9px;
+}
+.dribbbleLogo,
+.imegeIcon3 {
+  position: absolute;
+  height: 46px;
+}
+.imegeIcon3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-163xl);
+  width: 45.8px;
+  object-fit: cover;
+}
+.dribbbleLogo {
+  top: 25px;
+  left: 57px;
+  width: 46px;
+}
+.text9 {
+  position: absolute;
+  top: 91px;
+  left: 52px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+  white-space: pre-wrap;
+}
+.imege2,
+.stcInc {
+  position: absolute;
+  top: 50px;
+  left: 191px;
+  width: 160px;
+  height: 191px;
+}
+.imege2 {
+  top: 27px;
+  left: 56px;
+  border-radius: 50%;
+  background-color: var(--color-silver-100);
+  width: 46px;
+  height: 46px;
+}
+.appleLogoIcon {
+  position: absolute;
+  top: 33px;
+  left: 63px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.text12 {
+  position: absolute;
+  top: 91px;
+  left: 49px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+}
+.googleInc1,
+.imegeIcon4 {
+  position: absolute;
+  top: 256px;
+  left: 191px;
+  width: 160px;
+  height: 191px;
+}
+.imegeIcon4 {
+  top: 25px;
+  left: 57px;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.text15 {
+  position: absolute;
+  top: 91px;
+  left: 36px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+}
+.microsoft {
+  position: absolute;
+  top: 462px;
+  left: 191px;
+  width: 160px;
+  height: 191px;
+}
+.companyChild,
+.menuBarIcon {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.companyChild {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+  width: 162px;
+  height: 40px;
+}
+.text18 {
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  font-weight: 600;
+}
+.company {
+  top: 676px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+}
+.company,
+.posting,
+.postingChild {
+  position: absolute;
+  width: 162px;
+  height: 40px;
+}
+.postingChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+}
+.posting {
+  top: 677px;
+  left: 193px;
+}
+.text19 {
+  position: absolute;
+  top: 687px;
+  left: 224px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-dm-sans);
+  color: var(--color-white);
+}
+.myConnection {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-500);
+  font-family: var(--font-open-sans);
+}

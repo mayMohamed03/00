@@ -1,0 +1,261 @@
+.workExperienceChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 70px;
+}
+.addIcon,
+.icon,
+.text {
+  position: absolute;
+  top: 25px;
+  left: 54px;
+}
+.addIcon,
+.icon {
+  top: 23px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.addIcon {
+  left: 291px;
+}
+.aboutMe,
+.icon2,
+.workExperience {
+  position: absolute;
+  top: 320px;
+  left: 20px;
+  width: 335px;
+  height: 70px;
+}
+.aboutMe,
+.icon2 {
+  top: 240px;
+}
+.icon2 {
+  top: 20.5px;
+  width: 24px;
+  height: 26.5px;
+}
+.appreciation,
+.education,
+.skill {
+  position: absolute;
+  top: 400px;
+  left: 20px;
+  width: 335px;
+  height: 70px;
+}
+.appreciation,
+.skill {
+  top: 480px;
+}
+.appreciation {
+  top: 640px;
+}
+.iconChild,
+.iconItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.iconItem {
+  top: 2px;
+  left: 2px;
+  border-radius: var(--br-10xs);
+  border: 1.5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 11px;
+  height: 11px;
+}
+.iconInner,
+.rectangleIcon {
+  position: absolute;
+  top: 15px;
+  left: 4px;
+  width: 5px;
+  height: 5px;
+}
+.rectangleIcon {
+  top: 4px;
+  left: 15px;
+  object-fit: contain;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  border-radius: var(--br-10xs);
+  border: 1.5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 11px;
+  height: 11px;
+}
+.lineIcon {
+  position: absolute;
+  height: 25%;
+  width: 20.83%;
+  top: 56.25%;
+  right: 20.83%;
+  bottom: 18.75%;
+  left: 58.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon5,
+.text6 {
+  position: absolute;
+  top: 1.4px;
+  left: 4.8px;
+}
+.icon5 {
+  top: 23px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-darkorange);
+  font-family: var(--font-open-sans);
+}
+.language {
+  top: 560px;
+  left: 20px;
+  width: 335px;
+  height: 70px;
+}
+.language,
+.resume,
+.text7 {
+  position: absolute;
+}
+.text7 {
+  top: 25px;
+  left: 54px;
+  font-weight: 600;
+}
+.resume {
+  top: 720px;
+  left: 20px;
+  width: 335px;
+  height: 70px;
+  color: var(--color-midnightblue-300);
+  font-family: var(--font-open-sans);
+}
+.backgroundIcon,
+.menuBarIcon {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.backgroundIcon {
+  top: 0;
+  height: 220px;
+  object-fit: contain;
+}
+.iconSetting,
+.iconShared {
+  position: absolute;
+  top: 26px;
+  left: 328px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.iconShared {
+  left: 289px;
+}
+.follower {
+  font-size: var(--font-size-xs);
+}
+.buttonIcon1,
+.text8,
+.text9 {
+  position: absolute;
+  top: 174px;
+  left: 27px;
+}
+.buttonIcon1,
+.text9 {
+  left: 128px;
+}
+.buttonIcon1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 120px;
+  height: 30px;
+  opacity: 0.1;
+}
+.text10 {
+  position: absolute;
+  top: 6.5px;
+  left: 15px;
+}
+.editIcon,
+.editProfile {
+  position: absolute;
+  top: 3px;
+  left: 86px;
+  width: 24px;
+  height: 24px;
+}
+.editProfile {
+  top: 169px;
+  left: 242px;
+  width: 120px;
+  height: 30px;
+  font-size: var(--font-size-xs);
+}
+.backgroundParent,
+.text11 {
+  position: absolute;
+  color: var(--color-white);
+}
+.backgroundParent {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 220px;
+}
+.text11 {
+  top: 123px;
+  left: 26px;
+  font-size: var(--font-size-xs);
+}
+.maskGroupIcon {
+  position: absolute;
+  top: 38px;
+  left: 24px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.text12 {
+  position: absolute;
+  top: 98px;
+  left: 26px;
+  line-height: 28px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.profile {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+  font-family: var(--font-dm-sans);
+}

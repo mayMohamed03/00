@@ -1,0 +1,13 @@
+.f778b {
+  margin: 0;
+}
+.text {
+  width: 41px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  line-height: 160%;
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}

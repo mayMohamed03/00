@@ -1,0 +1,591 @@
+.tabMenuChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 335px;
+  height: 50px;
+}
+.button,
+.tabMenuChild,
+.text {
+  position: absolute;
+}
+.button {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 108.3px;
+  height: 40px;
+}
+.text {
+  top: 10px;
+  left: 24px;
+  font-weight: 600;
+}
+.button1,
+.description {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 108.3px;
+  height: 40px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-sandybrown-100);
+}
+.text1 {
+  top: 10px;
+  left: 30px;
+  font-weight: 600;
+}
+.company,
+.text1,
+.text2 {
+  position: absolute;
+}
+.company {
+  top: 5px;
+  left: 221px;
+  width: 108.3px;
+  height: 40px;
+  color: var(--color-white);
+}
+.text2 {
+  top: 10px;
+  left: 39px;
+  font-weight: 600;
+}
+.buttonParent,
+.tabMenu {
+  position: absolute;
+  top: 5px;
+  left: 113px;
+  width: 108.3px;
+  height: 40px;
+}
+.tabMenu {
+  top: 296px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  color: var(--color-midnightblue-200);
+  font-family: var(--font-open-sans);
+}
+.googleIncChild,
+.logoGoogleChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 203px;
+}
+.logoGoogleChild {
+  left: 1px;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 41px;
+  height: 38px;
+  object-fit: cover;
+}
+.fullTimeChild,
+.logoGoogle {
+  position: absolute;
+  top: 20px;
+  left: 19px;
+  width: 41px;
+  height: 40px;
+}
+.fullTimeChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 70px;
+  height: 26px;
+  opacity: 0.2;
+}
+.text3 {
+  position: absolute;
+  top: 5px;
+  left: 13px;
+}
+.designChild,
+.fullTime {
+  position: absolute;
+  top: 128px;
+  left: 120px;
+  width: 70px;
+  height: 26px;
+}
+.designChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 92px;
+  opacity: 0.2;
+}
+.design,
+.seniorDesignerChild {
+  position: absolute;
+  top: 128px;
+  left: 20px;
+  width: 92px;
+  height: 26px;
+}
+.seniorDesignerChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  width: 115px;
+  opacity: 0.2;
+}
+.text5 {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  display: inline-block;
+  width: 109px;
+}
+.seniorDesigner {
+  position: absolute;
+  top: 128px;
+  left: 200px;
+  width: 115px;
+  height: 26px;
+}
+.saveChild,
+.saveItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.saveItem {
+  top: 2px;
+  left: 5px;
+  width: 14px;
+  height: 20px;
+}
+.save {
+  top: 20.5px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.save,
+.text6,
+.text7 {
+  position: absolute;
+}
+.text6 {
+  top: 171px;
+  left: 20px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-200);
+}
+.text7 {
+  top: 92px;
+  left: 91px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 68px;
+}
+.text8 {
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+  white-space: pre-wrap;
+}
+.imege,
+.text8,
+.text9 {
+  position: absolute;
+}
+.text9 {
+  top: 92px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+}
+.imege {
+  top: 101px;
+  left: 84px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.googleInc,
+.popularJobs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 335px;
+  height: 203px;
+}
+.popularJobs {
+  top: 581px;
+  left: 20px;
+  font-size: var(--font-size-2xs);
+}
+.imegeIcon1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 39px;
+  height: 33px;
+  object-fit: cover;
+}
+.fullTimeItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 82px;
+  height: 26px;
+  opacity: 0.2;
+}
+.text10 {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+}
+.designItem,
+.fullTime1 {
+  position: absolute;
+  top: 128px;
+  left: 109px;
+  width: 82px;
+  height: 26px;
+}
+.designItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 79px;
+  opacity: 0.2;
+}
+.text11 {
+  position: absolute;
+  top: 6px;
+  left: 24px;
+}
+.design1,
+.seniorDesignerItem {
+  position: absolute;
+  top: 128px;
+  left: 20px;
+  width: 79px;
+  height: 26px;
+}
+.seniorDesignerItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 65.1px;
+  opacity: 0.2;
+}
+.text12 {
+  position: absolute;
+  top: 5px;
+  right: 0;
+  display: inline-block;
+  width: 58.3px;
+}
+.seniorDesigner1 {
+  top: 128px;
+  left: 201px;
+  width: 66.3px;
+  height: 26px;
+  font-size: var(--font-size-2xs);
+}
+.seniorDesigner1,
+.text13,
+.text14 {
+  position: absolute;
+}
+.text13 {
+  top: 171px;
+  left: 20px;
+  color: var(--color-darkgray-200);
+}
+.text14 {
+  top: 92px;
+  left: 91px;
+  font-size: var(--font-size-xs);
+}
+.informationSystemsJenior {
+  margin: 0;
+}
+.text15 {
+  position: absolute;
+  top: 70px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  color: var(--color-gray-300);
+  width: 234px;
+  height: 22px;
+}
+.googleInc1,
+.imege2 {
+  position: absolute;
+  top: 362px;
+  left: 20px;
+  width: 335px;
+  height: 203px;
+}
+.imege2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon2 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.logoGoogle2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+}
+.text17 {
+  position: absolute;
+  top: 6px;
+  left: 21px;
+}
+.seniorDesigner2,
+.seniorDesignerInner {
+  position: absolute;
+  width: 114px;
+  height: 26px;
+}
+.seniorDesignerInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  opacity: 0.2;
+}
+.seniorDesigner2 {
+  top: 128px;
+  left: 201px;
+}
+.span {
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+}
+.k {
+  font-weight: 600;
+}
+.text20 {
+  position: absolute;
+  top: 169px;
+  left: 259px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.googleInc2,
+.text23 {
+  position: absolute;
+  left: 20px;
+}
+.text23 {
+  top: 70px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.googleInc2 {
+  top: 817px;
+  width: 335px;
+  height: 203px;
+  font-family: var(--font-open-sans);
+}
+.optionsIcon {
+  position: absolute;
+  top: 0;
+  left: 309px;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.optionsParent {
+  position: absolute;
+  top: 28px;
+  left: 18px;
+  width: 333px;
+  height: 24px;
+}
+.buttonIcon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  width: 159px;
+  height: 40px;
+  opacity: 0.2;
+}
+.buttonIcon,
+.icon,
+.text25 {
+  position: absolute;
+}
+.icon {
+  top: 13px;
+  left: 31px;
+  width: 15px;
+  height: 15px;
+}
+.text25 {
+  top: 12px;
+  left: 56px;
+}
+.button3,
+.buttonGroup {
+  position: absolute;
+  width: 159px;
+  height: 40px;
+}
+.buttonGroup {
+  top: 238px;
+  left: 197px;
+  font-size: var(--font-size-xs);
+  color: var(--color-tomato-200);
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightpink);
+  opacity: 0.2;
+}
+.addIcon {
+  position: absolute;
+  top: 16px;
+  left: 51px;
+  width: 8px;
+  height: 8px;
+}
+.buttonContainer,
+.text26 {
+  position: absolute;
+  top: 12px;
+  left: 69px;
+}
+.buttonContainer {
+  top: 238px;
+  left: 21px;
+  width: 159px;
+  height: 40px;
+  font-size: var(--font-size-xs);
+  color: var(--color-tomato-200);
+}
+.groupChild {
+  top: 52px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 375px;
+  height: 114px;
+}
+.groupChild,
+.text27,
+.text28 {
+  position: absolute;
+}
+.text27 {
+  top: 87px;
+  left: calc(50% - 33.5px);
+}
+.text28 {
+  top: 124px;
+  left: 29px;
+}
+.imege4,
+.imege5,
+.text29,
+.text30 {
+  position: absolute;
+  top: 124px;
+  left: 158px;
+}
+.imege4,
+.imege5,
+.text30 {
+  left: 276px;
+}
+.imege4,
+.imege5 {
+  top: 133px;
+  left: 104px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-300);
+  width: 7px;
+  height: 7px;
+}
+.imege5 {
+  left: 245px;
+}
+.imegeIcon3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 41.5px);
+  width: 83px;
+  height: 76px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 57px;
+  left: 0;
+  width: 375px;
+  height: 166px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-300);
+}
+.training {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

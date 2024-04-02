@@ -1,0 +1,95 @@
+.button1,
+.text {
+  position: absolute;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 317px;
+  height: 50px;
+}
+.text {
+  top: 17px;
+  left: 117px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 83px;
+}
+.button {
+  top: 454px;
+  left: 29px;
+  width: 317px;
+  height: 50px;
+}
+.button,
+.button3,
+.text1 {
+  position: absolute;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+  width: 317px;
+  height: 50px;
+}
+.text1 {
+  top: 17px;
+  left: 98px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 122px;
+}
+.button2 {
+  top: 519px;
+  left: 29px;
+  width: 317px;
+  height: 50px;
+}
+.button2,
+.text2,
+.text3 {
+  position: absolute;
+}
+.text2 {
+  top: 137px;
+  left: calc(50% - 152.5px);
+  font-size: var(--font-size-xs);
+  line-height: 160%;
+  color: var(--color-slategray-100);
+  text-align: center;
+  display: inline-block;
+  width: 305px;
+}
+.text3 {
+  top: 94px;
+  left: calc(50% - 92.5px);
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue-200);
+}
+.imegeIcon {
+  position: absolute;
+  top: 226px;
+  left: 118px;
+  width: 139px;
+  height: 117px;
+  overflow: hidden;
+}
+.successfully {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

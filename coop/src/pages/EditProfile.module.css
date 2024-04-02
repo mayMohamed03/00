@@ -1,0 +1,587 @@
+.aboutMeChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 169.9px;
+}
+.buttonIcon {
+  position: absolute;
+  top: 23.8px;
+  left: 291px;
+  width: 24px;
+  height: 24.9px;
+}
+.iconAboutMe,
+.lineIcon {
+  position: absolute;
+  left: 20px;
+}
+.iconAboutMe {
+  top: 23.8px;
+  width: 24px;
+  height: 24.9px;
+}
+.lineIcon {
+  top: 64.2px;
+  max-height: 100%;
+  width: 295px;
+}
+.text,
+.text1 {
+  position: absolute;
+  top: 76px;
+  left: 15px;
+  display: inline-block;
+  width: 321px;
+  height: 111.9px;
+}
+.text1 {
+  top: 25.9px;
+  left: 54px;
+  font-size: var(--font-size-sm);
+  width: 67px;
+  height: 18.6px;
+}
+.aboutMe,
+.rectangleIcon {
+  position: absolute;
+  top: 267px;
+  left: 20px;
+  width: 336px;
+  height: 187.9px;
+}
+.rectangleIcon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 173px;
+}
+.editIcon,
+.iconEducation {
+  position: absolute;
+  top: 87px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.iconEducation {
+  top: 20.5px;
+  left: 20px;
+  height: 26.5px;
+}
+.imege,
+.text2,
+.text3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.imege,
+.text3 {
+  left: 126px;
+}
+.imege {
+  top: 9px;
+  left: 119px;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray-500);
+  width: 2px;
+  height: 2px;
+}
+.sep2010Aug2013 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 167px;
+  height: 16px;
+  font-family: var(--font-open-sans);
+}
+.line,
+.line1 {
+  position: absolute;
+  top: 29px;
+  left: 0;
+}
+.line1 {
+  top: 0;
+  font-size: var(--font-size-sm);
+}
+.technicalInformation {
+  position: absolute;
+  top: 87px;
+  left: 20px;
+  width: 240px;
+  height: 66px;
+}
+.lineIcon1 {
+  position: absolute;
+  top: 67px;
+  left: 20px;
+  max-height: 100%;
+  width: 295px;
+}
+.text4 {
+  position: absolute;
+  top: 25px;
+  left: 54px;
+  font-size: var(--font-size-sm);
+}
+.education {
+  position: absolute;
+  top: 452px;
+  left: 20px;
+  width: 335px;
+  height: 173px;
+}
+.addIcon,
+.rectangle,
+.rectangle1 {
+  position: absolute;
+  top: 23px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.rectangle,
+.rectangle1 {
+  top: 0;
+  left: 0;
+}
+.rectangle1 {
+  top: 2px;
+  left: 2px;
+  border-radius: var(--br-10xs);
+  border: 1.5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 11px;
+  height: 11px;
+}
+.rectangleIcon2,
+.rectangleIcon3 {
+  position: absolute;
+  top: 15px;
+  left: 4px;
+  width: 5px;
+  height: 5px;
+}
+.rectangleIcon3 {
+  top: 4px;
+  left: 15px;
+  object-fit: contain;
+}
+.rectangle2 {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  border-radius: var(--br-10xs);
+  border: 1.5px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 11px;
+  height: 11px;
+}
+.text5 {
+  position: absolute;
+  top: 1.4px;
+  left: 4.8px;
+}
+.iconAppreciation {
+  position: absolute;
+  top: 23px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+  color: var(--color-darkorange);
+  font-family: var(--font-open-sans);
+}
+.text6,
+.text7,
+.text8 {
+  position: absolute;
+  top: 49px;
+  left: 0;
+}
+.text7,
+.text8 {
+  top: 28px;
+}
+.text8 {
+  top: 0;
+  left: 24px;
+  font-size: var(--font-size-sm);
+}
+.wirelessSymposiumRws {
+  position: absolute;
+  top: 88px;
+  left: 20px;
+  width: 212px;
+  height: 65px;
+  font-size: var(--font-size-xs);
+}
+.appreciation,
+.resumeChild {
+  position: absolute;
+  width: 335px;
+}
+.appreciation {
+  top: 1114px;
+  left: 20px;
+  height: 173px;
+  font-size: var(--font-size-5xs);
+}
+.resumeChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  height: 151px;
+}
+.feb2024At {
+  position: absolute;
+  top: 25px;
+  left: 110px;
+}
+.jametKudasiCvUiuxDesiChild {
+  position: absolute;
+  top: 34px;
+  left: 103px;
+  border-radius: 50%;
+  background-color: var(--color-lightslategray-100);
+  width: 2px;
+  height: 2px;
+}
+.optionIcon {
+  position: absolute;
+  top: 15px;
+  left: 297px;
+  width: 3px;
+  height: 15px;
+  object-fit: contain;
+  display: none;
+}
+.pdfChild,
+.pdfItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.pdfItem {
+  left: 5.5px;
+  width: 33px;
+}
+.pdfInner {
+  top: 0;
+  left: 26px;
+  width: 12.5px;
+  height: 13px;
+}
+.pdf,
+.pdf1,
+.pdfInner {
+  position: absolute;
+}
+.pdf1 {
+  top: 23px;
+  left: 12px;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
+.pdf {
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.buttonIcon3 {
+  position: absolute;
+  top: 7px;
+  left: 276px;
+  width: 24px;
+  height: 24px;
+}
+.kb,
+.saraAli {
+  position: absolute;
+  left: 59px;
+}
+.saraAli {
+  top: 4px;
+  color: var(--color-darkslategray-500);
+}
+.kb {
+  top: 25px;
+}
+.jametKudasiCvUiuxDesi {
+  position: absolute;
+  top: 87px;
+  left: 15px;
+  width: 300px;
+  height: 44px;
+}
+.iconResume {
+  top: 23px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.iconResume,
+.resume,
+.text10 {
+  position: absolute;
+}
+.text10 {
+  top: 25px;
+  left: 54px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+}
+.resume {
+  top: 1308px;
+  left: 20px;
+  width: 335px;
+  height: 151px;
+  color: var(--color-lightslategray-100);
+}
+.rectangleIcon4,
+.rectangleIcon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 335px;
+  height: 235px;
+}
+.rectangleIcon5 {
+  border-radius: var(--br-3xs);
+  width: 93px;
+  height: 36px;
+  opacity: 0.2;
+}
+.leadership,
+.text11 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+}
+.leadership {
+  top: 0;
+  left: 0;
+  width: 93px;
+  height: 36px;
+}
+.rectangleIcon6,
+.teamwork {
+  position: absolute;
+  top: 0;
+  width: 89px;
+  height: 36px;
+}
+.rectangleIcon6 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  opacity: 0.2;
+}
+.teamwork {
+  left: 103px;
+}
+.rectangleIcon7,
+.targetOriented {
+  position: absolute;
+  left: 0;
+  width: 117px;
+  height: 36px;
+}
+.rectangleIcon7 {
+  top: 0;
+  border-radius: var(--br-3xs);
+  opacity: 0.2;
+}
+.targetOriented {
+  top: 46px;
+}
+.consistent,
+.rectangleIcon8 {
+  position: absolute;
+  width: 90px;
+  height: 36px;
+}
+.rectangleIcon8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  opacity: 0.2;
+}
+.consistent {
+  top: 46px;
+  left: 127px;
+}
+.rectangleIcon9,
+.visioner {
+  position: absolute;
+  top: 0;
+  width: 76px;
+  height: 36px;
+}
+.rectangleIcon9 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  opacity: 0.2;
+}
+.visioner {
+  left: 202px;
+}
+.button,
+.text16 {
+  position: absolute;
+  top: 56px;
+  left: 227px;
+}
+.button {
+  top: 112px;
+  left: 121px;
+  color: #6d8a93;
+}
+.leadershipParent,
+.rectangleIcon10,
+.skill {
+  position: absolute;
+  top: 87px;
+  left: 20px;
+  width: 278px;
+  height: 128px;
+}
+.rectangleIcon10,
+.skill {
+  top: 650px;
+  width: 335px;
+  height: 235px;
+}
+.rectangleIcon10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  height: 189px;
+}
+.rectangleIcon11 {
+  border-radius: var(--br-3xs);
+  opacity: 0.2;
+}
+.english,
+.englishWrapper,
+.imege1,
+.menuBarIcon,
+.rectangleIcon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 36px;
+}
+.englishWrapper,
+.imege1,
+.menuBarIcon {
+  top: 87px;
+  left: 20px;
+}
+.imege1,
+.menuBarIcon {
+  top: 904px;
+  width: 335px;
+  height: 189px;
+}
+.menuBarIcon {
+  top: 1488px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 220px;
+  object-fit: contain;
+}
+.groupChild,
+.text20,
+.text21 {
+  position: absolute;
+}
+.text20 {
+  top: 105px;
+  left: 28px;
+  font-size: var(--font-size-sm);
+  line-height: 28px;
+  font-weight: 500;
+}
+.text21 {
+  top: 131px;
+  left: 27px;
+}
+.buttonIcon6,
+.buttonIcon7 {
+  position: absolute;
+  top: 26px;
+  left: 328px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.buttonIcon7 {
+  left: 289px;
+}
+.buttonIcon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 120px;
+  height: 30px;
+  opacity: 0.1;
+}
+.text22 {
+  position: absolute;
+  top: 6.5px;
+  left: 15px;
+}
+.button1,
+.maskGroupIcon {
+  position: absolute;
+  top: 167px;
+  left: 28px;
+  width: 120px;
+  height: 30px;
+}
+.maskGroupIcon {
+  top: 35px;
+  left: 27px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 220px;
+  color: var(--color-white);
+}
+.editProfile {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 1560px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-500);
+  font-family: var(--font-dm-sans);
+}

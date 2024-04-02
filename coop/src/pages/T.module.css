@@ -1,0 +1,7 @@
+.t {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray-300);
+  height: 517px;
+  opacity: 0.6;
+}

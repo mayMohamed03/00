@@ -1,0 +1,17 @@
+.logoChild {
+  position: absolute;
+  top: -15px;
+  left: 2px;
+  border-radius: 50px;
+  width: 370px;
+  height: 842px;
+  object-fit: cover;
+}
+.logo {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: #1848a0;
+  height: 812px;
+  overflow: hidden;
+}

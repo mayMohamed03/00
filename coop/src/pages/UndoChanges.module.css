@@ -1,0 +1,259 @@
+.removeIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.jobTitleChild,
+.text {
+  position: absolute;
+  left: 0;
+}
+.text {
+  top: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.jobTitleChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 40px;
+}
+.text1,
+.text2 {
+  position: absolute;
+  top: 38px;
+  left: 20px;
+}
+.text2 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.company,
+.descriptionChild,
+.jobTitle {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 335px;
+  height: 66px;
+}
+.company,
+.descriptionChild {
+  top: 138px;
+}
+.descriptionChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  height: 155px;
+}
+.description,
+.text5 {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+}
+.description {
+  top: 310px;
+  left: 0;
+  width: 335px;
+  height: 181px;
+  color: var(--color-darkgray-200);
+}
+.endDate,
+.endDateChild {
+  position: absolute;
+  left: 0;
+  width: 160px;
+}
+.endDateChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  height: 40px;
+}
+.endDate {
+  top: 224px;
+  height: 66px;
+}
+.addWorkExperience {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 491px;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightblue-100);
+}
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-blueviolet);
+  width: 160px;
+  height: 50px;
+}
+.textve {
+  position: absolute;
+  top: 16px;
+  left: 64px;
+  font-weight: 600;
+}
+.button {
+  top: 0;
+  left: 175px;
+  width: 160px;
+  height: 50px;
+}
+.button,
+.button3,
+.text9 {
+  position: absolute;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 160px;
+  height: 50px;
+}
+.text9 {
+  top: 16px;
+  left: 53px;
+  font-weight: 600;
+}
+.button2,
+.buttonRemoveSave {
+  position: absolute;
+  height: 50px;
+}
+.button2 {
+  top: 0;
+  left: 0;
+  width: 160px;
+  color: var(--color-tomato-200);
+}
+.buttonRemoveSave {
+  top: 742px;
+  left: 20px;
+  width: 335px;
+  font-family: var(--font-open-sans);
+}
+.button5,
+.popUpChild,
+.popUpItem {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.popUpChild {
+  top: 0;
+  background-color: var(--color-darkslategray-300);
+  height: 812px;
+  opacity: 0.6;
+}
+.button5,
+.popUpItem {
+  top: 509px;
+  height: 303px;
+}
+.button5 {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 317px;
+  height: 50px;
+}
+.text10 {
+  position: absolute;
+  top: 16px;
+  left: 89px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 139px;
+}
+.button4 {
+  top: 0;
+}
+.button4,
+.button6,
+.button7,
+.buttonRemoveSave1 {
+  position: absolute;
+  left: 0;
+  width: 317px;
+  height: 50px;
+}
+.button7 {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.button6,
+.buttonRemoveSave1 {
+  top: 60px;
+}
+.buttonRemoveSave1 {
+  top: 677px;
+  left: 29px;
+  height: 110px;
+}
+.text11,
+.text12 {
+  position: absolute;
+  top: 616px;
+  left: 42px;
+  font-size: var(--font-size-xs);
+  color: var(--color-slategray-100);
+}
+.text12 {
+  top: 584px;
+  left: 125px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue-200);
+}
+.lineIcon {
+  top: 534px;
+  left: 173px;
+  max-height: 100%;
+  width: 30px;
+}
+.lineIcon,
+.popUp,
+.text13 {
+  position: absolute;
+}
+.popUp {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 812px;
+}
+.text13 {
+  top: 754px;
+  left: 125px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 125px;
+}
+.undoChanges {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

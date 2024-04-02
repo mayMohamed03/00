@@ -1,0 +1,336 @@
+.buttonIcon,
+.rectangle,
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.buttonIcon,
+.rectangle {
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 149px;
+}
+.rectangle {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 77px;
+  height: 25px;
+  opacity: 0.2;
+}
+.text1 {
+  position: absolute;
+  top: 6px;
+  left: 19px;
+}
+.fullTime,
+.rectangle1 {
+  position: absolute;
+  top: 108px;
+  left: 134px;
+  width: 77px;
+  height: 25px;
+}
+.rectangle1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: #ff6b2c;
+  opacity: 0.2;
+}
+.text2 {
+  position: absolute;
+  top: 6px;
+  left: 26px;
+}
+.fullTime1,
+.rectangle2 {
+  position: absolute;
+  top: 108.2px;
+  left: 239px;
+  width: 77px;
+  height: 25px;
+}
+.rectangle2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  backdrop-filter: blur(4px);
+  width: 107px;
+  opacity: 0.2;
+}
+.text3 {
+  position: absolute;
+  top: 6px;
+  left: 17px;
+}
+.button,
+.seniorDesigner {
+  position: absolute;
+  top: 108.2px;
+  left: 19px;
+  width: 107px;
+  height: 25px;
+}
+.button {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.buttonIcon1 {
+  top: 2px;
+  left: 5px;
+  width: 14px;
+  height: 20px;
+}
+.buttonIcon1,
+.save,
+.text4 {
+  position: absolute;
+}
+.save {
+  top: 20.5px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.text4 {
+  top: 43px;
+  left: 128px;
+  font-size: var(--font-size-xs);
+}
+.text5 {
+  top: 21px;
+  left: 70px;
+  font-size: var(--font-size-sm);
+  color: var(--color-midnightblue-200);
+}
+.imege,
+.text5,
+.text6 {
+  position: absolute;
+}
+.text6 {
+  top: 43px;
+  left: 70px;
+  font-size: var(--font-size-xs);
+}
+.imege {
+  top: 51px;
+  left: 118px;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 2px;
+  height: 2px;
+}
+.googleInc {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  width: 335px;
+  height: 149px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+}
+.jobRecommendation {
+  position: absolute;
+  top: 549px;
+  left: 20px;
+  width: 335px;
+  height: 186px;
+  color: var(--color-midnightblue-200);
+}
+.text7 {
+  position: absolute;
+  top: 308px;
+  left: 23px;
+  color: var(--color-black);
+}
+.imegeIcon {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.buttonIcon2,
+.buttonIcon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 329px;
+  height: 181px;
+}
+.buttonIcon3 {
+  top: 25px;
+  left: 198px;
+  width: 152px;
+  height: 156px;
+  object-fit: cover;
+}
+.blankLine {
+  margin: 0;
+}
+.weWillReveal {
+  margin: 0;
+  font-size: var(--font-size-3xs);
+}
+.text8,
+.text9 {
+  position: absolute;
+  top: 110px;
+  left: 15px;
+  display: inline-block;
+  width: 190px;
+  height: 54px;
+}
+.text9 {
+  top: 70px;
+  left: 10px;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  width: 200px;
+  height: 25px;
+}
+.button1 {
+  top: 103px;
+  left: 23px;
+  width: 350px;
+  height: 181px;
+  font-size: var(--font-size-sm);
+  color: #a7cbe9;
+}
+.button1,
+.imege1,
+.text10 {
+  position: absolute;
+}
+.imege1 {
+  top: 606px;
+  left: 40px;
+  border-radius: 50%;
+  background-color: #d6cdfe;
+  width: 40px;
+  height: 40px;
+}
+.text10 {
+  top: 33px;
+  left: 23px;
+  font-size: var(--font-size-3xl);
+  line-height: 121.12%;
+  color: var(--color-darkslateblue-300);
+}
+.button3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-peachpuff);
+  width: 156px;
+  height: 75px;
+}
+.text11,
+.text12 {
+  position: absolute;
+  top: 17px;
+  left: 51px;
+}
+.text12 {
+  top: 43px;
+  left: 43px;
+  font-size: var(--font-size-sm);
+}
+.button2,
+.button5 {
+  position: absolute;
+  top: 455px;
+  left: 193px;
+  width: 156px;
+  height: 75px;
+}
+.button5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: #beaffe;
+}
+.text14 {
+  position: absolute;
+  top: 43px;
+  left: 46px;
+  font-size: var(--font-size-sm);
+}
+.button4,
+.maskGroupIcon {
+  position: absolute;
+  top: 360px;
+  left: 193px;
+  width: 156px;
+  height: 75px;
+}
+.maskGroupIcon {
+  top: 45px;
+  left: 309px;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+.button7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: #afecfe;
+  width: 150px;
+  height: 170px;
+}
+.text15,
+.text16 {
+  position: absolute;
+  top: 112px;
+  left: 24px;
+}
+.text16 {
+  top: 85px;
+  left: 54px;
+  font-size: var(--font-size-base);
+}
+.imegeIcon1 {
+  position: absolute;
+  top: 37px;
+  left: 58px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.button6 {
+  position: absolute;
+  top: 360px;
+  left: 23px;
+  width: 150px;
+  height: 170px;
+  font-size: var(--font-size-sm);
+}
+.imegeIcon2 {
+  position: absolute;
+  top: 610px;
+  left: 40px;
+  border-radius: 50%;
+  width: 37px;
+  height: 31px;
+  object-fit: cover;
+}
+.homeScreen {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue-400);
+  font-family: var(--font-dm-sans);
+}

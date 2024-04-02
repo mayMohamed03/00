@@ -1,0 +1,202 @@
+.backChild {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.back,
+.backChild,
+.lineIcon {
+  position: absolute;
+}
+.lineIcon {
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.back {
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.jobTitleChild,
+.text {
+  position: absolute;
+  left: 0;
+}
+.text {
+  top: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-500);
+}
+.jobTitleChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 40px;
+}
+.text1,
+.text2 {
+  position: absolute;
+  top: 38px;
+  left: 20px;
+}
+.text2 {
+  top: 0;
+  left: 0;
+  color: var(--color-darkslategray-500);
+}
+.company,
+.jobTitle,
+.startDateChild {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 335px;
+  height: 66px;
+}
+.company,
+.startDateChild {
+  top: 138px;
+}
+.startDateChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 160px;
+  height: 40px;
+}
+.startDate,
+.startDateItem {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 160px;
+  height: 66px;
+}
+.startDateItem {
+  top: 0;
+  border-radius: var(--br-8xs);
+  width: 24px;
+  height: 24px;
+}
+.startDateInner {
+  position: absolute;
+  top: 5.8px;
+  left: 7.8px;
+  width: 9.6px;
+  height: 9.6px;
+  object-fit: contain;
+}
+.text7 {
+  position: absolute;
+  top: 4px;
+  left: 47px;
+}
+.descriptionChild,
+.startDate1 {
+  position: absolute;
+  top: 310px;
+  left: 0;
+  width: 177px;
+  height: 24px;
+}
+.descriptionChild {
+  top: 26px;
+  border-radius: var(--br-3xs);
+  width: 335px;
+  height: 155px;
+}
+.description,
+.text8 {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+}
+.description {
+  top: 354px;
+  left: 0;
+  width: 335px;
+  height: 181px;
+  color: var(--color-darkgray-200);
+}
+.endDate {
+  position: absolute;
+  top: 224px;
+  left: 175px;
+  width: 160px;
+  height: 66px;
+}
+.addWorkExperience,
+.button1 {
+  position: absolute;
+  top: 94px;
+  left: 20px;
+  width: 335px;
+  height: 535px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 160px;
+  height: 50px;
+}
+.text12 {
+  position: absolute;
+  top: 18px;
+  left: 64px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button,
+.button3 {
+  position: absolute;
+  top: 0;
+  left: 175px;
+  width: 160px;
+  height: 50px;
+}
+.button3 {
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-lightblue-100);
+}
+.text13 {
+  position: absolute;
+  top: 17px;
+  left: 53px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.button2,
+.buttonRemoveSave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 160px;
+  height: 50px;
+}
+.buttonRemoveSave {
+  top: 671px;
+  left: 20px;
+  width: 335px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.changeWorkExperience {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-dm-sans);
+}

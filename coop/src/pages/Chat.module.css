@@ -1,0 +1,404 @@
+.chat2Child {
+  position: absolute;
+  top: 0;
+  left: 49px;
+  width: 192px;
+  height: 48px;
+  object-fit: contain;
+  opacity: 0.1;
+}
+.imegeIcon {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  border-radius: var(--br-132xl);
+  width: 35px;
+  height: 37.8px;
+  object-fit: cover;
+}
+.text,
+.text1 {
+  position: absolute;
+  top: 15px;
+  left: 69px;
+}
+.text1 {
+  top: 53px;
+  left: 49px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-200);
+}
+.chat2,
+.chat3Child {
+  position: absolute;
+  height: 66px;
+}
+.chat2 {
+  top: 288px;
+  left: 16px;
+  width: 241px;
+  color: var(--color-darkslateblue-100);
+}
+.chat3Child {
+  top: 0;
+  left: 45px;
+  width: 192px;
+  object-fit: contain;
+  opacity: 0.1;
+}
+.imegeIcon1 {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  border-radius: var(--br-132xl);
+  width: 35px;
+  height: 37.8px;
+  object-fit: cover;
+}
+.text2 {
+  top: 13px;
+  left: 65px;
+  line-height: 150%;
+  display: inline-block;
+  width: 152px;
+}
+.chat3,
+.text2,
+.text3 {
+  position: absolute;
+}
+.text3 {
+  top: 71px;
+  left: 45px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-200);
+}
+.chat3 {
+  top: 504px;
+  left: 20px;
+  width: 237px;
+  height: 84px;
+  color: var(--color-darkslateblue-100);
+}
+.chat1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 192px;
+  height: 48px;
+}
+.text4,
+.text5 {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+}
+.text5 {
+  top: 53px;
+  left: 129px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-200);
+}
+.chat1,
+.doubleCeklisIcon {
+  position: absolute;
+  top: 55px;
+  left: 177.5px;
+  width: 14.5px;
+  height: 10.5px;
+}
+.chat1 {
+  top: 211px;
+  left: 163px;
+  width: 192px;
+  height: 66px;
+}
+.chat1Item {
+  top: 0;
+  left: 0;
+  width: 261px;
+  height: 110px;
+}
+.chat1Item,
+.text6,
+.text7 {
+  position: absolute;
+}
+.text6 {
+  top: 15px;
+  left: 15px;
+  line-height: 150%;
+  display: inline-block;
+  width: 231px;
+}
+.text7 {
+  top: 115px;
+  left: 199px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-200);
+}
+.chat11,
+.doubleCeklisIcon1 {
+  position: absolute;
+  top: 117px;
+  left: 247.2px;
+  width: 13.8px;
+  height: 9.8px;
+}
+.chat11 {
+  top: 365px;
+  left: 94px;
+  width: 261px;
+  height: 128px;
+}
+.sendMassageChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 275px;
+  height: 50px;
+}
+.sendIcon,
+.text8 {
+  position: absolute;
+  top: 16px;
+  left: 59px;
+}
+.sendIcon {
+  top: 0;
+  left: 285px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.attachmentIcon,
+.sendMassage {
+  position: absolute;
+  top: 13px;
+  left: 15px;
+  width: 24px;
+  height: 24px;
+}
+.sendMassage {
+  top: 737px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+}
+.jametCvUiuxDesignerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 216px;
+  height: 75px;
+}
+.optionsIcon {
+  position: absolute;
+  top: 26px;
+  left: 182px;
+  width: 24px;
+  height: 24px;
+}
+.pdfChild,
+.pdfItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.pdfItem {
+  left: 5.5px;
+  width: 33px;
+}
+.lineIcon {
+  top: 0;
+  left: 26px;
+  width: 12.5px;
+  height: 13px;
+}
+.lineIcon,
+.pdf,
+.text9 {
+  position: absolute;
+}
+.text9 {
+  top: 23px;
+  left: 12px;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
+.pdf {
+  top: 15px;
+  left: 15px;
+  width: 44px;
+  height: 44px;
+}
+.text10 {
+  top: 15px;
+  left: 69px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-dm-sans);
+  display: inline-block;
+  width: 96px;
+}
+.text10,
+.text11,
+.text12 {
+  position: absolute;
+}
+.text11 {
+  top: 52px;
+  left: 69px;
+  font-family: var(--font-dm-sans);
+  color: #d0dbe0;
+}
+.text12 {
+  top: 80px;
+  left: 154px;
+  color: var(--color-darkgray-200);
+}
+.doubleCeklisIcon2 {
+  position: absolute;
+  top: 81px;
+  left: 202.2px;
+  width: 13.8px;
+  height: 9.8px;
+}
+.jametCvUiuxDesigner {
+  position: absolute;
+  top: 599px;
+  left: 139px;
+  width: 216px;
+  height: 94px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-open-sans);
+}
+.text13 {
+  position: absolute;
+  top: 170px;
+  left: 169px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+}
+.chatChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 62px rgba(153, 171, 198, 0.18);
+  width: 375px;
+  height: 156px;
+}
+.button,
+.imegeIcon2,
+.optionsIcon1 {
+  position: absolute;
+  top: 30px;
+  left: 331px;
+  width: 24px;
+  height: 24px;
+}
+.button,
+.imegeIcon2 {
+  top: 0;
+  left: 0.6px;
+}
+.imegeIcon2 {
+  top: 1.2px;
+  left: 0;
+  width: 23.2px;
+  height: 23.2px;
+  object-fit: contain;
+}
+.iconCall,
+.iconSearch {
+  position: absolute;
+  top: 100px;
+  left: 296.4px;
+  width: 24.6px;
+  height: 24.4px;
+}
+.iconSearch {
+  left: 331px;
+  width: 24px;
+  height: 24px;
+}
+.text14 {
+  top: 0;
+  left: 0;
+}
+.imege,
+.text14,
+.text15 {
+  position: absolute;
+}
+.text15 {
+  top: 24px;
+  left: 10px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.imege {
+  top: 30px;
+  left: 0;
+  border-radius: 50%;
+  background-color: #4ec133;
+  width: 5px;
+  height: 5px;
+}
+.andyRobertson {
+  position: absolute;
+  top: 94px;
+  left: 87px;
+  width: 50px;
+  height: 40px;
+  font-size: var(--font-size-sm);
+  color: var(--color-midnightblue-200);
+}
+.button2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon1 {
+  position: absolute;
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.button1,
+.maskGroupIcon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.maskGroupIcon {
+  top: 91px;
+  left: 26px;
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+.chat {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans);
+}

@@ -1,0 +1,235 @@
+.googleIncChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 121px;
+  opacity: 0.1;
+}
+.imege {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 40px;
+  height: 40px;
+}
+.imegeIcon,
+.logoGoogle {
+  position: absolute;
+  height: 41px;
+}
+.imegeIcon {
+  top: 0;
+  left: 0;
+  width: 40px;
+  object-fit: cover;
+}
+.logoGoogle {
+  top: 19px;
+  left: 19px;
+  width: 41px;
+}
+.optionsIcon {
+  top: 28px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+}
+.button,
+.optionsIcon,
+.text {
+  position: absolute;
+}
+.text {
+  top: 88px;
+  left: 75px;
+  font-size: var(--font-size-2xs);
+}
+.button {
+  top: 87px;
+  left: 278px;
+  color: var(--color-tomato-100);
+}
+.text1,
+.text2 {
+  position: absolute;
+  left: 75px;
+}
+.text1 {
+  top: 16px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-500);
+}
+.text2 {
+  top: 40px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 229px;
+}
+.googleInc,
+.googleIncItem {
+  position: absolute;
+  top: 146px;
+  left: 20px;
+  width: 335px;
+  height: 121px;
+}
+.googleIncItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.dribbbleLogoIcon {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.optionsIcon1 {
+  position: absolute;
+  top: 28px;
+  left: 291px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.text3,
+.text5 {
+  position: absolute;
+  left: 75px;
+}
+.text3 {
+  top: 87px;
+  font-size: var(--font-size-2xs);
+}
+.text5 {
+  top: 40px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 240px;
+}
+.googleInc1,
+.imageIcon {
+  position: absolute;
+  top: 282px;
+  left: 20px;
+  width: 335px;
+  height: 121px;
+}
+.imageIcon {
+  top: 20px;
+  border-radius: var(--br-55xl);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.googleInc2,
+.logoAppleIcon {
+  position: absolute;
+  top: 418px;
+  left: 20px;
+  width: 335px;
+  height: 121px;
+}
+.logoAppleIcon {
+  top: 20px;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+.googleInc3,
+.logoFacebookIcon {
+  position: absolute;
+  top: 554px;
+  left: 20px;
+  width: 335px;
+  height: 121px;
+}
+.logoFacebookIcon {
+  top: 20px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.button4,
+.text12 {
+  position: absolute;
+  top: 87px;
+  left: 75px;
+}
+.button4 {
+  left: 278px;
+  font-size: var(--font-size-xs);
+  color: var(--color-tomato-100);
+}
+.text14 {
+  position: absolute;
+  top: 40px;
+  left: 75px;
+  color: var(--color-darkslategray-100);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 229px;
+}
+.googleInc4 {
+  position: absolute;
+  top: 690px;
+  left: 20px;
+  width: 335px;
+  height: 121px;
+  font-size: var(--font-size-2xs);
+}
+.button5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.lineIcon {
+  top: 12px;
+  left: 2.8px;
+  max-height: 100%;
+  width: 18.2px;
+  object-fit: contain;
+}
+.back,
+.lineIcon,
+.text15 {
+  position: absolute;
+}
+.back {
+  top: 30px;
+  left: 20px;
+  width: 24px;
+  height: 24px;
+}
+.text15 {
+  top: 76px;
+  left: 125px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+}
+.button6 {
+  position: absolute;
+  top: 35px;
+  left: 310px;
+  color: var(--color-darkorange);
+}
+.notifications {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke-100);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-dm-sans);
+}

@@ -1,0 +1,35 @@
+.text,
+.textaraeIcon {
+  position: absolute;
+  left: 0;
+}
+.textaraeIcon {
+  top: 34px;
+  border-radius: var(--br-xl);
+  width: 335px;
+  height: 201px;
+}
+.text {
+  top: 0;
+}
+.text1,
+.textarea {
+  position: absolute;
+  left: 20px;
+}
+.text1 {
+  top: 54px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-200);
+  display: inline-block;
+  width: 224px;
+}
+.textarea {
+  top: 463px;
+  width: 335px;
+  height: 235px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-dm-sans);
+}
